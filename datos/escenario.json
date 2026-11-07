@@ -1,0 +1,206 @@
+[
+  {
+    "grupo": "B1",
+    "parametro": "Fluido",
+    "valor_original": "Gas y condensado",
+    "fuente": "B1 tabla base de diseño"
+  },
+  {
+    "grupo": "B1",
+    "parametro": "Presión de cabezal",
+    "valor_original": "320 bar",
+    "fuente": "B1 tabla base de diseño"
+  },
+  {
+    "grupo": "B1",
+    "parametro": "Temperatura de operación / máxima",
+    "valor_original": "95 / 120 °C",
+    "fuente": "B1 tabla base de diseño"
+  },
+  {
+    "grupo": "B1",
+    "parametro": "CO₂ en fase gas",
+    "valor_original": "1,8 % molar",
+    "fuente": "B1 tabla base de diseño"
+  },
+  {
+    "grupo": "B1",
+    "parametro": "H₂S en fase gas",
+    "valor_original": "1,4 % molar",
+    "fuente": "B1 tabla base de diseño"
+  },
+  {
+    "grupo": "B1",
+    "parametro": "Cloruros del agua de formación",
+    "valor_original": "28 000 mg/l",
+    "fuente": "B1 tabla base de diseño"
+  },
+  {
+    "grupo": "B1",
+    "parametro": "pH del agua condensada",
+    "valor_original": "3,9",
+    "fuente": "B1 tabla base de diseño"
+  },
+  {
+    "grupo": "B1",
+    "parametro": "Producción de sólidos",
+    "valor_original": "No prevista inicialmente",
+    "fuente": "B1 tabla base de diseño"
+  },
+  {
+    "grupo": "B1",
+    "parametro": "Ambiente externo",
+    "valor_original": "Atmosférico marino, zona de salpicadura, sumergido con protección catódica",
+    "fuente": "B1 tabla base de diseño"
+  },
+  {
+    "grupo": "B1",
+    "parametro": "Vida de diseño",
+    "valor_original": "25 años",
+    "fuente": "B1 tabla base de diseño"
+  },
+  {
+    "grupo": "B2",
+    "parametro": "Fluido",
+    "valor_original": "Gas y condensado",
+    "fuente": "B2 tabla base de diseño"
+  },
+  {
+    "grupo": "B2",
+    "parametro": "Presión de cabezal",
+    "valor_original": "320 bar",
+    "fuente": "B2 tabla base de diseño"
+  },
+  {
+    "grupo": "B2",
+    "parametro": "Temperatura de operación / máxima",
+    "valor_original": "95 / 120 °C",
+    "fuente": "B2 tabla base de diseño"
+  },
+  {
+    "grupo": "B2",
+    "parametro": "CO₂ en fase gas",
+    "valor_original": "1,8 % molar",
+    "fuente": "B2 tabla base de diseño"
+  },
+  {
+    "grupo": "B2",
+    "parametro": "H₂S en fase gas",
+    "valor_original": "1,4 % molar",
+    "fuente": "B2 tabla base de diseño"
+  },
+  {
+    "grupo": "B2",
+    "parametro": "Cloruros del agua de formación",
+    "valor_original": "28 000 mg/L, desde el año 8",
+    "fuente": "B2 tabla base de diseño"
+  },
+  {
+    "grupo": "B2",
+    "parametro": "pH del agua condensada",
+    "valor_original": "3,9",
+    "fuente": "B2 tabla base de diseño"
+  },
+  {
+    "grupo": "B2",
+    "parametro": "Producción de sólidos",
+    "valor_original": "No prevista inicialmente",
+    "fuente": "B2 tabla base de diseño"
+  },
+  {
+    "grupo": "B2",
+    "parametro": "Inhibidor de hidratos",
+    "valor_original": "MEG, inyección continua",
+    "fuente": "B2 tabla base de diseño"
+  },
+  {
+    "grupo": "B2",
+    "parametro": "Ambiente externo",
+    "valor_original": "Atmosférico marino, zona de salpicadura, sumergido con protección catódica",
+    "fuente": "B2 tabla base de diseño"
+  },
+  {
+    "grupo": "B2",
+    "parametro": "Profundidad de agua",
+    "valor_original": "780 m en los pozos",
+    "fuente": "B2 tabla base de diseño"
+  },
+  {
+    "grupo": "B2",
+    "parametro": "Vida de diseño",
+    "valor_original": "25 años",
+    "fuente": "B2 tabla base de diseño"
+  },
+  {
+    "grupo": "B3",
+    "parametro": "Fluido",
+    "valor_original": "Gas y condensado",
+    "fuente": "B3 tabla base de diseño"
+  },
+  {
+    "grupo": "B3",
+    "parametro": "Presión de cabezal",
+    "valor_original": "320 bar",
+    "fuente": "B3 tabla base de diseño"
+  },
+  {
+    "grupo": "B3",
+    "parametro": "Temperatura de operación / máxima",
+    "valor_original": "95 / 120 °C",
+    "fuente": "B3 tabla base de diseño"
+  },
+  {
+    "grupo": "B3",
+    "parametro": "CO₂ en fase gas",
+    "valor_original": "1,8 % molar",
+    "fuente": "B3 tabla base de diseño"
+  },
+  {
+    "grupo": "B3",
+    "parametro": "H₂S en fase gas",
+    "valor_original": "1,4 % molar",
+    "fuente": "B3 tabla base de diseño"
+  },
+  {
+    "grupo": "B3",
+    "parametro": "Cloruros del agua de formación",
+    "valor_original": "28 000 mg/L, desde el año 8",
+    "fuente": "B3 tabla base de diseño"
+  },
+  {
+    "grupo": "B3",
+    "parametro": "pH del agua condensada",
+    "valor_original": "3,9",
+    "fuente": "B3 tabla base de diseño"
+  },
+  {
+    "grupo": "B3",
+    "parametro": "Producción de sólidos",
+    "valor_original": "No prevista inicialmente",
+    "fuente": "B3 tabla base de diseño"
+  },
+  {
+    "grupo": "B3",
+    "parametro": "Inhibidor de hidratos",
+    "valor_original": "MEG, inyección continua",
+    "fuente": "B3 tabla base de diseño"
+  },
+  {
+    "grupo": "B3",
+    "parametro": "Ambiente externo",
+    "valor_original": "Atmosférico marino, zona de salpicadura, sumergido con protección catódica",
+    "fuente": "B3 tabla base de diseño"
+  },
+  {
+    "grupo": "B3",
+    "parametro": "Profundidad de agua",
+    "valor_original": "780 m en los pozos",
+    "fuente": "B3 tabla base de diseño"
+  },
+  {
+    "grupo": "B3",
+    "parametro": "Vida de diseño",
+    "valor_original": "25 años",
+    "fuente": "B3 tabla base de diseño"
+  }
+]

@@ -1,0 +1,35 @@
+﻿grupo,parametro,valor_original,fuente
+B1,Fluido,Gas y condensado,B1 tabla base de diseño
+B1,Presión de cabezal,320 bar,B1 tabla base de diseño
+B1,Temperatura de operación / máxima,95 / 120 °C,B1 tabla base de diseño
+B1,CO₂ en fase gas,"1,8 % molar",B1 tabla base de diseño
+B1,H₂S en fase gas,"1,4 % molar",B1 tabla base de diseño
+B1,Cloruros del agua de formación,28 000 mg/l,B1 tabla base de diseño
+B1,pH del agua condensada,"3,9",B1 tabla base de diseño
+B1,Producción de sólidos,No prevista inicialmente,B1 tabla base de diseño
+B1,Ambiente externo,"Atmosférico marino, zona de salpicadura, sumergido con protección catódica",B1 tabla base de diseño
+B1,Vida de diseño,25 años,B1 tabla base de diseño
+B2,Fluido,Gas y condensado,B2 tabla base de diseño
+B2,Presión de cabezal,320 bar,B2 tabla base de diseño
+B2,Temperatura de operación / máxima,95 / 120 °C,B2 tabla base de diseño
+B2,CO₂ en fase gas,"1,8 % molar",B2 tabla base de diseño
+B2,H₂S en fase gas,"1,4 % molar",B2 tabla base de diseño
+B2,Cloruros del agua de formación,"28 000 mg/L, desde el año 8",B2 tabla base de diseño
+B2,pH del agua condensada,"3,9",B2 tabla base de diseño
+B2,Producción de sólidos,No prevista inicialmente,B2 tabla base de diseño
+B2,Inhibidor de hidratos,"MEG, inyección continua",B2 tabla base de diseño
+B2,Ambiente externo,"Atmosférico marino, zona de salpicadura, sumergido con protección catódica",B2 tabla base de diseño
+B2,Profundidad de agua,780 m en los pozos,B2 tabla base de diseño
+B2,Vida de diseño,25 años,B2 tabla base de diseño
+B3,Fluido,Gas y condensado,B3 tabla base de diseño
+B3,Presión de cabezal,320 bar,B3 tabla base de diseño
+B3,Temperatura de operación / máxima,95 / 120 °C,B3 tabla base de diseño
+B3,CO₂ en fase gas,"1,8 % molar",B3 tabla base de diseño
+B3,H₂S en fase gas,"1,4 % molar",B3 tabla base de diseño
+B3,Cloruros del agua de formación,"28 000 mg/L, desde el año 8",B3 tabla base de diseño
+B3,pH del agua condensada,"3,9",B3 tabla base de diseño
+B3,Producción de sólidos,No prevista inicialmente,B3 tabla base de diseño
+B3,Inhibidor de hidratos,"MEG, inyección continua",B3 tabla base de diseño
+B3,Ambiente externo,"Atmosférico marino, zona de salpicadura, sumergido con protección catódica",B3 tabla base de diseño
+B3,Profundidad de agua,780 m en los pozos,B3 tabla base de diseño
+B3,Vida de diseño,25 años,B3 tabla base de diseño

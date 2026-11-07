@@ -1,0 +1,37 @@
+{
+  "proyecto": "Selección de materiales - Proyecto B - gas costa afuera del Caribe colombiano",
+  "version": "1.0",
+  "origen": "Informes proporcionados por usuario 2026",
+  "estado": "Base documental, NO selección normativa automática",
+  "grupos": {
+    "B1": "Producción submarina y conducción a tierra",
+    "B2": "Planta de proceso de gas en tierra",
+    "B3": "Servicios, utilidades y estructura"
+  },
+  "conteos": {
+    "equipos": {
+      "B1": 77,
+      "B2": 86,
+      "B3": 46
+    },
+    "corrientes": {
+      "B2": 20,
+      "B3": 13
+    },
+    "mecanismos": {
+      "B1": 17,
+      "B2": 21,
+      "B3": 23
+    },
+    "parametros": {
+      "B3": 202,
+      "B1": 24
+    }
+  },
+  "convenciones": {
+    "sin_dato": "No inventar; mostrar pendiente",
+    "material": "Material indicado en inventario, no validación del código",
+    "presion_320_bar": "Presión de cabezal, no de toda la planta",
+    "presion_50_bar": "Hipótesis de B2 no confirmada"
+  }
+}

@@ -1,0 +1,299 @@
+[
+  {
+    "id": "B2-C01",
+    "grupo": "B2",
+    "nombre": "Alimentación multifásica",
+    "fase": "Gas, condensado y agua agria",
+    "condiciones": "[D] 95 °C oper.; 120 °C máx.; 320 bar en CABEZAL B1 (no frontera). [D] CO₂ 1,8 %, H₂S 1,4 %; pH 3,9 agua condensada; Cl⁻ 28 000 mg/L en formación desde año 8. [S] Pd planta 50 bar (S1). [P] caudal por fase y MEG.",
+    "material_candidato": "Acero sour/HIC en línea y recipientes, según agua.",
+    "fuente": "B2 tabla corrientes, fila 2"
+  },
+  {
+    "id": "B2-C02",
+    "grupo": "B2",
+    "nombre": "Gas húmedo agrio",
+    "fase": "Gas con vapor de agua, posible arrastre",
+    "condiciones": "[I] NPS 8 Sch 80, L 40 m. [S] Pd planta 50 bar (S1). [P] H₂S/CO₂ aún presentes; composición, T, agua libre y caudal no medidos.",
+    "material_candidato": "API 5L/A106 sour candidato.",
+    "fuente": "B2 tabla corrientes, fila 3"
+  },
+  {
+    "id": "B2-C03",
+    "grupo": "B2",
+    "nombre": "Condensado sin estabilizar",
+    "fase": "Hidrocarburo líquido; posible agua",
+    "condiciones": "[P] P/T/caudal y gases ácidos disueltos no disponibles; no asignar pH 3,9 al hidrocarburo.",
+    "material_candidato": "A106/SA-516 candidato.",
+    "fuente": "B2 tabla corrientes, fila 4"
+  },
+  {
+    "id": "B2-C04",
+    "grupo": "B2",
+    "nombre": "Agua producida/agria",
+    "fase": "Fase acuosa con sales y gases disueltos",
+    "condiciones": "[D] Cl⁻ 28 000 mg/L desde año 8 en agua de formación. [P] pH y H₂S/CO₂ disueltos en salida no medidos; presencia de MEG por confirmar con B1.",
+    "material_candidato": "Acero sour revestido o alternativa por corrosión.",
+    "fuente": "B2 tabla corrientes, fila 5"
+  },
+  {
+    "id": "B2-C05-R",
+    "grupo": "B2",
+    "nombre": "Amina rica",
+    "fase": "Amina acuosa cargada con gas ácido",
+    "condiciones": "[I] NPS 3 Sch 80, L 50 m. [P] tipo, % amina, carga ácida, P/T, contaminantes, velocidad y caudal sin dato.",
+    "material_candidato": "A106/SA-516 con control de química, candidato.",
+    "fuente": "B2 tabla corrientes, fila 6"
+  },
+  {
+    "id": "B2-C05-P",
+    "grupo": "B2",
+    "nombre": "Amina pobre",
+    "fase": "Amina acuosa regenerada",
+    "condiciones": "[I] NPS 3 Sch 80, L 65 m. [P] más caliente aguas arriba del enfriador; T de película, carga residual y química no especificadas.",
+    "material_candidato": "A106/SA-516; internos inox solo justificados.",
+    "fuente": "B2 tabla corrientes, fila 7"
+  },
+  {
+    "id": "B2-C06",
+    "grupo": "B2",
+    "nombre": "Gas ácido de aminas",
+    "fase": "H₂S/CO₂ con vapor de agua",
+    "condiciones": "[P] P/T y composición no disponibles; puede condensarse agua ácida.",
+    "material_candidato": "Material sour según exposición húmeda.",
+    "fuente": "B2 tabla corrientes, fila 8"
+  },
+  {
+    "id": "B2-C07",
+    "grupo": "B2",
+    "nombre": "Gas endulzado húmedo",
+    "fase": "Gas con H₂S/CO₂ reducidos; aún húmedo",
+    "condiciones": "[I] NPS 8 Sch 80, L 35 m. [P] residual ácido, caudal, P/T y agua libre sin dato.",
+    "material_candidato": "A106 Gr B candidato condicionado.",
+    "fuente": "B2 tabla corrientes, fila 9"
+  },
+  {
+    "id": "B2-C08-R",
+    "grupo": "B2",
+    "nombre": "TEG rico",
+    "fase": "TEG que absorbió agua y contaminantes",
+    "condiciones": "[I] NPS 2 Sch 80. [P] caudal (5 m³/h es referencia, no dato del proyecto).",
+    "material_candidato": "A106 Gr B; 316L localizado por química.",
+    "fuente": "B2 tabla corrientes, fila 10"
+  },
+  {
+    "id": "B2-C08-P",
+    "grupo": "B2",
+    "nombre": "TEG pobre",
+    "fase": "TEG regenerado caliente",
+    "condiciones": "[I] NPS 2 Sch 80. [P] T de película y concentración de TEG sin dato.",
+    "material_candidato": "A106 Gr B; tubos 316L como candidato.",
+    "fuente": "B2 tabla corrientes, fila 11"
+  },
+  {
+    "id": "B2-C09-V",
+    "grupo": "B2",
+    "nombre": "Vapores de TEG",
+    "fase": "Vapor de agua y gases; condensable",
+    "condiciones": "[I] NPS 2 Sch 40. [P] P/T/composición/caudal sin dato.",
+    "material_candidato": "A106 sour si condensa fase ácida.",
+    "fuente": "B2 tabla corrientes, fila 12"
+  },
+  {
+    "id": "B2-C09-D",
+    "grupo": "B2",
+    "nombre": "Drenajes cerrados TEG",
+    "fase": "Líquidos acuosos, TEG y trazas",
+    "condiciones": "[I] NPS 1½ Sch 80. [P] composición variable según origen.",
+    "material_candidato": "Acero compatible por subramal.",
+    "fuente": "B2 tabla corrientes, fila 13"
+  },
+  {
+    "id": "B2-C10",
+    "grupo": "B2",
+    "nombre": "Gas seco/acondicionado",
+    "fase": "Gas tratado; posible condensación al enfriar",
+    "condiciones": "[I] NPS 8 Sch 80 interno y NPS 4 de entrega. [P] P/T/punto de rocío/residual ácido sin dato.",
+    "material_candidato": "A106 Gr B candidato en servicio demostrado.",
+    "fuente": "B2 tabla corrientes, fila 14"
+  },
+  {
+    "id": "B2-C11",
+    "grupo": "B2",
+    "nombre": "Vapores estabilizador",
+    "fase": "Hidrocarburos ligeros; posible agua",
+    "condiciones": "[I] NPS 4 Sch 80. [P] P/T, caudal y condensación sin dato.",
+    "material_candidato": "A106 sour si hay H₂S húmedo.",
+    "fuente": "B2 tabla corrientes, fila 15"
+  },
+  {
+    "id": "B2-C12",
+    "grupo": "B2",
+    "nombre": "Condensado estabilizado",
+    "fase": "Hidrocarburo líquido estabilizado",
+    "condiciones": "[I] NPS 3 Sch 80. [P] P/T, presión de vapor, H₂S y agua libre sin dato.",
+    "material_candidato": "A106 y material tanque según evaluación.",
+    "fuente": "B2 tabla corrientes, fila 16"
+  },
+  {
+    "id": "B2-C13-W",
+    "grupo": "B2",
+    "nombre": "Agua enfriamiento B3",
+    "fase": "Agua de mar clorada, lado frío",
+    "condiciones": "[P] cloro residual, Cl⁻, P/T, O₂, velocidad, ciclos y biología por acordar con B3 (acta B2–B3).",
+    "material_candidato": "Titanio Gr 2 / 6Mo en lado agua como opciones, no aprobación.",
+    "fuente": "B2 tabla corrientes, fila 17"
+  },
+  {
+    "id": "B2-C13-A",
+    "grupo": "B2",
+    "nombre": "Aire instrumentos B3",
+    "fase": "Aire seco; gas de sello es servicio aparte",
+    "condiciones": "[P] presión, punto de rocío, partículas y aceite por acordar con B3.",
+    "material_candidato": "Tubing 316L o especificación B3.",
+    "fuente": "B2 tabla corrientes, fila 18"
+  },
+  {
+    "id": "B2-C13-F",
+    "grupo": "B2",
+    "nombre": "Agua dulce de enfriamiento cerrada (condicional)",
+    "fase": "Agua dulce tratada en circuito cerrado",
+    "condiciones": "[P] solo si B3 la asigna por acta a algún intercambiador de B2 (el enunciado define el agua de enfriamiento de B2 como agua de mar clorada). Química, T y P por acordar.",
+    "material_candidato": "Acero al carbono (A106/A53/SA-179) solo si se confirma; no aplicar a C13-W.",
+    "fuente": "B2 tabla corrientes, fila 19"
+  },
+  {
+    "id": "B2-C14",
+    "grupo": "B2",
+    "nombre": "Alivio y tea",
+    "fase": "Gas/hidrocarburo con posible condensado ácido y agua",
+    "condiciones": "[P] casos de alivio, T alta en punta de tea, T baja por despresurización, composición y caudal sin dato.",
+    "material_candidato": "Cabezal A333 Gr. 6 / A106; punta de tea en inoxidable de alta T (candidato).",
+    "fuente": "B2 tabla corrientes, fila 20"
+  },
+  {
+    "id": "B2-C15",
+    "grupo": "B2",
+    "nombre": "Inyección química",
+    "fase": "Químicos de proceso (inhibidores, antiespumante, etc.)",
+    "condiciones": "[P] tipo de químico, caudal y presión de inyección sin dato.",
+    "material_candidato": "Tubing 316L (candidato; verificar ambiente marino).",
+    "fuente": "B2 tabla corrientes, fila 21"
+  },
+  {
+    "id": "B3-S1",
+    "grupo": "B3",
+    "nombre": "Agua de mar cruda",
+    "fase": "",
+    "condiciones": "0",
+    "material_candidato": "",
+    "fuente": "B3 tabla de corrientes, fila 2"
+  },
+  {
+    "id": "B3-S2",
+    "grupo": "B3",
+    "nombre": "Agua de mar clorada",
+    "fase": "",
+    "condiciones": "0",
+    "material_candidato": "",
+    "fuente": "B3 tabla de corrientes, fila 3"
+  },
+  {
+    "id": "B3-S3",
+    "grupo": "B3",
+    "nombre": "Agua dulce de enfriamiento cerrado",
+    "fase": "",
+    "condiciones": "1",
+    "material_candidato": "",
+    "fuente": "B3 tabla de corrientes, fila 4"
+  },
+  {
+    "id": "B3-S4",
+    "grupo": "B3",
+    "nombre": "Aire de instrumentos",
+    "fase": "",
+    "condiciones": "1",
+    "material_candidato": "",
+    "fuente": "B3 tabla de corrientes, fila 5"
+  },
+  {
+    "id": "B3-S5",
+    "grupo": "B3",
+    "nombre": "Nitrógeno",
+    "fase": "",
+    "condiciones": "1",
+    "material_candidato": "",
+    "fuente": "B3 tabla de corrientes, fila 6"
+  },
+  {
+    "id": "B3-S6",
+    "grupo": "B3",
+    "nombre": "Drenajes abiertos",
+    "fase": "",
+    "condiciones": "1",
+    "material_candidato": "",
+    "fuente": "B3 tabla de corrientes, fila 7"
+  },
+  {
+    "id": "B3-S7",
+    "grupo": "B3",
+    "nombre": "Agua a tratamiento (agua separada) y drenajes cerrados",
+    "fase": "",
+    "condiciones": "5",
+    "material_candidato": "",
+    "fuente": "B3 tabla de corrientes, fila 8"
+  },
+  {
+    "id": "B3-S8",
+    "grupo": "B3",
+    "nombre": "Ambiente externo: atmósfera marina, salpicadura y sumergido",
+    "fase": "",
+    "condiciones": "8",
+    "material_candidato": "",
+    "fuente": "B3 tabla de corrientes, fila 9"
+  },
+  {
+    "id": "B3-S9",
+    "grupo": "B3",
+    "nombre": "Gas de especificación (sistema de venta de gas)",
+    "fase": "",
+    "condiciones": "5",
+    "material_candidato": "",
+    "fuente": "B3 tabla de corrientes, fila 10"
+  },
+  {
+    "id": "B3-S10",
+    "grupo": "B3",
+    "nombre": "Condensado estabilizado",
+    "fase": "",
+    "condiciones": "5",
+    "material_candidato": "",
+    "fuente": "B3 tabla de corrientes, fila 11"
+  },
+  {
+    "id": "B3-S11",
+    "grupo": "B3",
+    "nombre": "Amina pobre y rica (servicios de aminas)",
+    "fase": "",
+    "condiciones": "6",
+    "material_candidato": "",
+    "fuente": "B3 tabla de corrientes, fila 12"
+  },
+  {
+    "id": "B3-S12",
+    "grupo": "B3",
+    "nombre": "TEG pobre y rico (servicios de TEG)",
+    "fase": "",
+    "condiciones": "6",
+    "material_candidato": "",
+    "fuente": "B3 tabla de corrientes, fila 13"
+  },
+  {
+    "id": "B3-S13",
+    "grupo": "B3",
+    "nombre": "Utilidades (gas combustible, vapor/caldera, agua de servicio, químicos)",
+    "fase": "",
+    "condiciones": "6",
+    "material_candidato": "",
+    "fuente": "B3 tabla de corrientes, fila 14"
+  }
+]

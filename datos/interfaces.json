@@ -1,0 +1,44 @@
+[
+  {
+    "grupo": "B2",
+    "interfaz": "",
+    "ubicacion": "Válvula de llegada de la línea de conducción.",
+    "pendientes": "Presión y temperatura reales, material y clase de la unión, reducción de presión, dimensiones y ubicación de junta aislante.",
+    "fuente": "B2 tabla interfaz fila 2"
+  },
+  {
+    "grupo": "B2",
+    "interfaz": "",
+    "ubicacion": "Agua de enfriamiento, aire de instrumentos, drenajes y entregas.",
+    "pendientes": "Cloro residual, temperatura del agua, compatibilidad de intercambiadores, destino de agua agria y vapores, conexiones de producto.",
+    "fuente": "B2 tabla interfaz fila 3"
+  },
+  {
+    "grupo": "B2",
+    "interfaz": "",
+    "ubicacion": "Protección catódica y aislamiento entre sistemas.",
+    "pendientes": "Interferencia eléctrica, continuidad y responsabilidades de la junta aislante.",
+    "fuente": "B2 tabla interfaz fila 4"
+  },
+  {
+    "grupo": "B3",
+    "interfaz": "B1 ↔ B2",
+    "ubicacion": "Válvula de llegada de la línea de conducción al límite de la planta",
+    "pendientes": "Condiciones de entrega, material a cada lado y ubicación de la junta aislante.",
+    "fuente": "B3 tabla interfaz fila 2"
+  },
+  {
+    "grupo": "B3",
+    "interfaz": "B2 ↔ B3",
+    "ubicacion": "Agua de enfriamiento, aire de instrumentos y drenajes",
+    "pendientes": "Nivel de cloro residual que B3 mantiene y el límite de temperatura que ese nivel impone a los materiales de los intercambiadores de B2.",
+    "fuente": "B3 tabla interfaz fila 3"
+  },
+  {
+    "grupo": "B3",
+    "interfaz": "B3 ↔ B1",
+    "ubicacion": "Protección catódica de la estructura frente a la protección catódica submarina",
+    "pendientes": "Dónde va la junta aislante, quién la instala y cómo se evita la interferencia entre los dos sistemas.",
+    "fuente": "B3 tabla interfaz fila 4"
+  }
+]

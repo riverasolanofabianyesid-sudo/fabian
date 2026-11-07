@@ -1,0 +1,745 @@
+[
+  {
+    "id": "B1-M001",
+    "grupo": "B1",
+    "referencia": "CO₂",
+    "campos": [
+      "A",
+      "A",
+      "A",
+      "A",
+      "C",
+      "D"
+    ],
+    "fuente": "B1 tabla DOCX 16, fila 2"
+  },
+  {
+    "id": "B1-M002",
+    "grupo": "B1",
+    "referencia": "H₂S",
+    "campos": [
+      "A",
+      "A",
+      "A",
+      "A",
+      "C",
+      "D"
+    ],
+    "fuente": "B1 tabla DOCX 16, fila 3"
+  },
+  {
+    "id": "B1-M003",
+    "grupo": "B1",
+    "referencia": "SSC",
+    "campos": [
+      "A",
+      "C",
+      "C",
+      "C",
+      "C",
+      "D"
+    ],
+    "fuente": "B1 tabla DOCX 16, fila 4"
+  },
+  {
+    "id": "B1-M004",
+    "grupo": "B1",
+    "referencia": "HIC",
+    "campos": [
+      "C",
+      "C",
+      "C",
+      "C",
+      "C",
+      "D"
+    ],
+    "fuente": "B1 tabla DOCX 16, fila 5"
+  },
+  {
+    "id": "B1-M005",
+    "grupo": "B1",
+    "referencia": "Agrietamiento de CRA",
+    "campos": [
+      "C",
+      "C",
+      "C",
+      "C",
+      "C",
+      "D"
+    ],
+    "fuente": "B1 tabla DOCX 16, fila 6"
+  },
+  {
+    "id": "B1-M006",
+    "grupo": "B1",
+    "referencia": "Picadura y rendija",
+    "campos": [
+      "C",
+      "C",
+      "C",
+      "C",
+      "C",
+      "C"
+    ],
+    "fuente": "B1 tabla DOCX 16, fila 7"
+  },
+  {
+    "id": "B1-M007",
+    "grupo": "B1",
+    "referencia": "Oxígeno",
+    "campos": [
+      "C",
+      "C",
+      "C",
+      "C",
+      "C",
+      "A"
+    ],
+    "fuente": "B1 tabla DOCX 16, fila 8"
+  },
+  {
+    "id": "B1-M008",
+    "grupo": "B1",
+    "referencia": "MIC",
+    "campos": [
+      "C",
+      "C",
+      "C",
+      "C",
+      "C",
+      "C"
+    ],
+    "fuente": "B1 tabla DOCX 16, fila 9"
+  },
+  {
+    "id": "B1-M009",
+    "grupo": "B1",
+    "referencia": "TLC",
+    "campos": [
+      "D",
+      "C",
+      "C",
+      "D",
+      "D",
+      "D"
+    ],
+    "fuente": "B1 tabla DOCX 16, fila 10"
+  },
+  {
+    "id": "B1-M010",
+    "grupo": "B1",
+    "referencia": "Galvánica",
+    "campos": [
+      "C",
+      "C",
+      "C",
+      "C",
+      "C",
+      "A"
+    ],
+    "fuente": "B1 tabla DOCX 16, fila 11"
+  },
+  {
+    "id": "B1-M011",
+    "grupo": "B1",
+    "referencia": "Erosión",
+    "campos": [
+      "C",
+      "C",
+      "C",
+      "C",
+      "C",
+      "C"
+    ],
+    "fuente": "B1 tabla DOCX 16, fila 12"
+  },
+  {
+    "id": "B1-M012",
+    "grupo": "B1",
+    "referencia": "Incrustaciones",
+    "campos": [
+      "C",
+      "C",
+      "C",
+      "C",
+      "C",
+      "C"
+    ],
+    "fuente": "B1 tabla DOCX 16, fila 13"
+  },
+  {
+    "id": "B1-M013",
+    "grupo": "B1",
+    "referencia": "Hidrógeno por protección catódica",
+    "campos": [
+      "D",
+      "D",
+      "D",
+      "D",
+      "D",
+      "A"
+    ],
+    "fuente": "B1 tabla DOCX 16, fila 14"
+  },
+  {
+    "id": "B1-M014",
+    "grupo": "B1",
+    "referencia": "Agua de mar externa",
+    "campos": [
+      "D",
+      "D",
+      "D",
+      "D",
+      "D",
+      "A"
+    ],
+    "fuente": "B1 tabla DOCX 16, fila 15"
+  },
+  {
+    "id": "B1-M015",
+    "grupo": "B1",
+    "referencia": "Elastómeros",
+    "campos": [
+      "C",
+      "C",
+      "C",
+      "C",
+      "C",
+      "C"
+    ],
+    "fuente": "B1 tabla DOCX 16, fila 16"
+  },
+  {
+    "id": "B1-M016",
+    "grupo": "B1",
+    "referencia": "Baja temperatura",
+    "campos": [
+      "C",
+      "C",
+      "C",
+      "C",
+      "C",
+      "C"
+    ],
+    "fuente": "B1 tabla DOCX 16, fila 17"
+  },
+  {
+    "id": "B1-M017",
+    "grupo": "B1",
+    "referencia": "Cemento",
+    "campos": [
+      "C",
+      "D",
+      "D",
+      "C",
+      "D",
+      "D"
+    ],
+    "fuente": "B1 tabla DOCX 16, fila 18"
+  },
+  {
+    "id": "B2-M001",
+    "grupo": "B2",
+    "referencia": "C01",
+    "campos": [
+      "CO₂ húmedo, SSC/HIC; corrosión externa marina.",
+      "Erosión, galvánica, MIC, SCC Cl⁻ (componentes inox).",
+      "Agrietamiento por aminas: NA sin amina.",
+      "Agua ácida y H₂S confirmados; cuantificar corrosión, revisar durezas y cloruros año 8."
+    ],
+    "fuente": "B2 tabla DOCX 23, fila 2"
+  },
+  {
+    "id": "B2-M002",
+    "grupo": "B2",
+    "referencia": "C02",
+    "campos": [
+      "CO₂ húmedo, SSC/HIC si hay fase acuosa.",
+      "Erosión, MIC, SCC Cl⁻ por arrastre; TLC si el gas condensa en la parte superior de la línea.",
+      "Agrietamiento por aminas: NA antes de absorbedor.",
+      "La separación quita líquidos a granel, no seca ni endulza."
+    ],
+    "fuente": "B2 tabla DOCX 23, fila 3"
+  },
+  {
+    "id": "B2-M003",
+    "grupo": "B2",
+    "referencia": "C03",
+    "campos": [
+      "CO₂/H₂S con agua libre; depósitos.",
+      "SSC/HIC, cloruros, erosión, MIC según agua y almacenamiento.",
+      "Agrietamiento por aminas: NA sin contaminación.",
+      "Se requiere distinguir condensado húmedo previo y producto estabilizado."
+    ],
+    "fuente": "B2 tabla DOCX 23, fila 4"
+  },
+  {
+    "id": "B2-M004",
+    "grupo": "B2",
+    "referencia": "C04",
+    "campos": [
+      "CO₂, SSC/HIC, corrosión localizada; depósitos.",
+      "MIC, erosión, SCC Cl⁻ según material, O₂ y flujo.",
+      "Agrietamiento por aminas: NA si no se mezcla amina.",
+      "Cloruros de formación desde año 8; pH y contaminantes específicos pendientes."
+    ],
+    "fuente": "B2 tabla DOCX 23, fila 5"
+  },
+  {
+    "id": "B2-M005",
+    "grupo": "B2",
+    "referencia": "C05-R",
+    "campos": [
+      "Corrosión por amina/gas ácido; amine cracking; erosión-corrosión local.",
+      "SSC/HIC, depósitos, cloruros y galvánica según química.",
+      "No descartar galvánica solo por relación de áreas.",
+      "Rica transporta gases ácidos; se requiere API RP 945 y química de la amina."
+    ],
+    "fuente": "B2 tabla DOCX 23, fila 6"
+  },
+  {
+    "id": "B2-M006",
+    "grupo": "B2",
+    "referencia": "C05-P",
+    "campos": [
+      "Agrietamiento por amina, corrosión química en puntos calientes.",
+      "SCC Cl⁻ en 316L, depósitos, cavitación, SSC/HIC residual.",
+      "No descartar SSC/HIC sin medir H₂S y fase acuosa.",
+      "Concentración y calentamiento son distintos de amina rica."
+    ],
+    "fuente": "B2 tabla DOCX 23, fila 7"
+  },
+  {
+    "id": "B2-M007",
+    "grupo": "B2",
+    "referencia": "C06",
+    "campos": [
+      "Corrosión/SSC/HIC con condensado acuoso ácido.",
+      "Depósitos, erosión, baja temperatura por alivio; TLC si el gas condensa en la parte superior de la línea.",
+      "Agrietamiento por aminas: NA en gas sin solución.",
+      "Identificar enfriamiento y condensación de la línea de gas ácido."
+    ],
+    "fuente": "B2 tabla DOCX 23, fila 8"
+  },
+  {
+    "id": "B2-M008",
+    "grupo": "B2",
+    "referencia": "C07",
+    "campos": [
+      "CO₂/SSC/HIC si condensa agua.",
+      "Arrastre amina, erosión, cloruros y MIC; TLC si el gas condensa en la parte superior de la línea.",
+      "Agrietamiento por aminas solo en contacto relevante con solución.",
+      "Gas endulzado sigue húmedo antes de TEG; no descartes sin valores residuales."
+    ],
+    "fuente": "B2 tabla DOCX 23, fila 9"
+  },
+  {
+    "id": "B2-M009",
+    "grupo": "B2",
+    "referencia": "C08-R",
+    "campos": [
+      "Corrosión por TEG contaminado, depósitos.",
+      "SSC/HIC y cloruros si retiene H₂S/salmuera; erosión.",
+      "Agrietamiento por aminas: NA sin amina.",
+      "TEG rico contiene más agua; la baja velocidad supuesta no demuestra descarte de erosión."
+    ],
+    "fuente": "B2 tabla DOCX 23, fila 10"
+  },
+  {
+    "id": "B2-M010",
+    "grupo": "B2",
+    "referencia": "C08-P",
+    "campos": [
+      "Degradación térmica/química del TEG; corrosión en zonas calientes.",
+      "Cloruros/SCC 316L, depósitos, SSC/HIC si contaminado.",
+      "Agrietamiento por aminas: NA sin amina.",
+      "Control de temperatura de película, pH y contaminantes."
+    ],
+    "fuente": "B2 tabla DOCX 23, fila 11"
+  },
+  {
+    "id": "B2-M011",
+    "grupo": "B2",
+    "referencia": "C09-V",
+    "campos": [
+      "CO₂/H₂S húmedo si condensa agua.",
+      "Depósitos, erosión, SSC/HIC, corrosión externa; TLC si el gas condensa en la parte superior de la línea.",
+      "Agrietamiento por aminas: NA salvo contaminación.",
+      "Vapor y drenaje NO se evalúan como una sola fase."
+    ],
+    "fuente": "B2 tabla DOCX 23, fila 12"
+  },
+  {
+    "id": "B2-M012",
+    "grupo": "B2",
+    "referencia": "C09-D",
+    "campos": [
+      "CO₂/H₂S acuoso y depósitos en ramales contaminados.",
+      "MIC, cloruros y corrosión galvánica según mezcla.",
+      "No descartar sin analizar cada ramal.",
+      "Definir segregación, pendientes, sellos y destino B3."
+    ],
+    "fuente": "B2 tabla DOCX 23, fila 13"
+  },
+  {
+    "id": "B2-M013",
+    "grupo": "B2",
+    "referencia": "C10",
+    "campos": [
+      "Bajo riesgo acuoso solo si se demuestra seco en todo régimen.",
+      "Condensación en enfriador, erosión, SSC/HIC residual, baja T; TLC si el gas condensa en la parte superior de la línea.",
+      "CO₂/SSC/HIC descartables *solo con ausencia demostrada de agua*.",
+      "Punto de rocío, H₂"
+    ],
+    "fuente": "B2 tabla DOCX 23, fila 14"
+  },
+  {
+    "id": "B2-M014",
+    "grupo": "B2",
+    "referencia": "C11",
+    "campos": [
+      "Corrosión por agua condensada con gases ácidos.",
+      "SSC/HIC y depósitos; erosión bifásica; TLC si el gas condensa en la parte superior de la línea.",
+      "Agrietamiento por aminas: NA sin presencia de solución.",
+      "Analizar gas ligero húmedo, no clasificarlo como gas seco."
+    ],
+    "fuente": "B2 tabla DOCX 23, fila 15"
+  },
+  {
+    "id": "B2-M015",
+    "grupo": "B2",
+    "referencia": "C12",
+    "campos": [
+      "Depósitos y corrosión del fondo si hay agua.",
+      "MIC, SSC/HIC, galvánica; erosión en salida.",
+      "Corrosión acuosa CO₂: D* solo si no hay agua en ningún régimen.",
+      "Verificar especificación de producto, tanque y fondo acuoso."
+    ],
+    "fuente": "B2 tabla DOCX 23, fila 16"
+  },
+  {
+    "id": "B2-M016",
+    "grupo": "B2",
+    "referencia": "C13-W",
+    "campos": [
+      "Picadura/rendija, MIC, biofouling, corrosión por O₂.",
+      "Galvánica, SCC Cl⁻ por material, erosión, depósitos.",
+      "SSC/HIC por gas agrio: NA salvo contaminación cruzada.",
+      "Agua de mar clorada: requiere cloro residual y temperatura B3."
+    ],
+    "fuente": "B2 tabla DOCX 23, fila 17"
+  },
+  {
+    "id": "B2-M017",
+    "grupo": "B2",
+    "referencia": "C13-A",
+    "campos": [
+      "Corrosión atmosférica exterior de tubing/equipos.",
+      "Corrosión interna por condensación, contaminación por aceite/agua.",
+      "Corrosión acuosa interna: D* si se garantiza aire seco y limpio.",
+      "Verificar punto de rocío, presión, filtro y calidad de B3."
+    ],
+    "fuente": "B2 tabla DOCX 23, fila 18"
+  },
+  {
+    "id": "B2-M018",
+    "grupo": "B2",
+    "referencia": "C13-F",
+    "campos": [
+      "Corrosión general e incrustación en circuito cerrado tratado.",
+      "Contaminación por cloruros o fugas de proceso; galvánica.",
+      "SSC/HIC y cloruros: NA mientras el circuito sea cerrado y tratado (D* con análisis del agua).",
+      "Condicional: solo existe si B3 lo asigna por acta; el caso base es C13-W."
+    ],
+    "fuente": "B2 tabla DOCX 23, fila 19"
+  },
+  {
+    "id": "B2-M019",
+    "grupo": "B2",
+    "referencia": "C14",
+    "campos": [
+      "Baja T por despresurización (fragilidad); oxidación y fluencia en punta de tea; corrosión por condensado ácido en cabezal.",
+      "SSC/HIC en cabezal con agua y H₂S; erosión por flujo transitorio.",
+      "Agrietamiento por aminas: NA salvo arrastre de amina.",
+      "Casos de alivio y temperaturas extremas sin dato; no se descarta nada sin ellos y sin confirmar materiales de alta T con proveedor."
+    ],
+    "fuente": "B2 tabla DOCX 23, fila 20"
+  },
+  {
+    "id": "B2-M020",
+    "grupo": "B2",
+    "referencia": "C15",
+    "campos": [
+      "Corrosión externa marina del tubing y corrosión interna por el químico.",
+      "Picadura/rendija en 316L en ambiente marino; compatibilidad con MEG y con elastómeros.",
+      "SSC/HIC: NA en líneas de químico sin gas ácido.",
+      "Tipo de químico sin dato; el límite lo da la hoja del proveedor."
+    ],
+    "fuente": "B2 tabla DOCX 23, fila 21"
+  },
+  {
+    "id": "B2-M021",
+    "grupo": "B2",
+    "referencia": "EXT",
+    "campos": [
+      "Corrosión atmosférica marina en equipos y tuberías externos; CUI en equipos y líneas calientes aislados (rehervidores, regeneradores, líneas de amina y TEG).",
+      "SCC por cloruros externo en inoxidables calientes; galvánica en soportes y tornillería.",
+      "No descartar CUI en inoxidable 316L caliente bajo aislamiento.",
+      "El escenario fija ambiente marino; la exposición se evalúa por equipo y ubicación."
+    ],
+    "fuente": "B2 tabla DOCX 23, fila 22"
+  },
+  {
+    "id": "B3-M002",
+    "grupo": "B3",
+    "referencia": "Corrosión atmosférica externa y corrosión bajo aislamiento (CUI)",
+    "campos": [
+      "Presente",
+      "El acero se atacará en el tramo aéreo por la severa atmósfera marina (cloruros, humedad relativa) en tramos con aislamiento térmico, acumulación de humedad y sales.",
+      "ISO 12944-5"
+    ],
+    "fuente": "B3 tabla DOCX 36, fila 3"
+  },
+  {
+    "id": "B3-M003",
+    "grupo": "B3",
+    "referencia": "Corrosión externa en tramo enterrado",
+    "campos": [
+      "Presente",
+      "Riesgo de picadura y pérdida de espesor en el suelo si falla el revestimiento polimérico.",
+      "ISO 15589-1 / API 571"
+    ],
+    "fuente": "B3 tabla DOCX 36, fila 4"
+  },
+  {
+    "id": "B3-M004",
+    "grupo": "B3",
+    "referencia": "Agrietamiento por sulfuro de hidrógeno (SSC / HIC) interno",
+    "campos": [
+      "Descartado",
+      "Se descarta porque el gas de venta cumple estrictamente H₂S ≤ 6 mg/m³, estando muy por debajo del umbral crítico establecido por NACE MR0175/ISO 15156 para aceros al carbono en ausencia de fase acuosa libre.",
+      "—"
+    ],
+    "fuente": "B3 tabla DOCX 36, fila 5"
+  },
+  {
+    "id": "B3-M005",
+    "grupo": "B3",
+    "referencia": "Corrosión interna generalizada por hidrocarburos o CO₂/H₂O",
+    "campos": [
+      "Descartado",
+      "Se descarta ya que el gas ya fue deshidratado y endulzado en el proceso B2, garantizado por la ausencia de agua.",
+      "—"
+    ],
+    "fuente": "B3 tabla DOCX 36, fila 6"
+  },
+  {
+    "id": "B3-M007",
+    "grupo": "B3",
+    "referencia": "Corrosión por fondo de tanque",
+    "campos": [
+      "Presente",
+      "El agua libre que se separa del condensado que se acumula en el fondo del tanque puede contener trazas ácidas, cloruros y oxígeno disuelto, generando picaduras severas en aceros al carbono",
+      "API 571 (Sec. 4.3)"
+    ],
+    "fuente": "B3 tabla DOCX 36, fila 8"
+  },
+  {
+    "id": "B3-M008",
+    "grupo": "B3",
+    "referencia": "Corrosión atmosférica marina",
+    "campos": [
+      "Presente",
+      "Degradación externa del acero estructural A36 debido a la neblina salina del ambiente.",
+      "ISO 12944-5"
+    ],
+    "fuente": "B3 tabla DOCX 36, fila 9"
+  },
+  {
+    "id": "B3-M009",
+    "grupo": "B3",
+    "referencia": "Corrosión bajo tensión por cloruros (SCC) en el tanque",
+    "campos": [
+      "Descartado",
+      "Se descarta porque los tanques son de acero al carbono (ASTM A36) con revestimiento epoxi novolac interno y protección catódica/drenaje de fondos, material inmune al SCC por cloruros.",
+      "—"
+    ],
+    "fuente": "B3 tabla DOCX 36, fila 10"
+  },
+  {
+    "id": "B3-M011",
+    "grupo": "B3",
+    "referencia": "Corrosión localizada (picaduras y rendijas)",
+    "campos": [
+      "Presente",
+      "Aunque el acero dúplex UNS S32205 posee un PREN ≥ 35 resistente al agua de mar las zonas de soldadura con microestructuras desbalanceadas o depósitos pueden sufrir picaduras si la temperatura supera los límites críticos del material en presencia de oxidantes.",
+      "API 571"
+    ],
+    "fuente": "B3 tabla DOCX 36, fila 12"
+  },
+  {
+    "id": "B3-M012",
+    "grupo": "B3",
+    "referencia": "Corrosión generalizada del acero al carbono",
+    "campos": [
+      "Descartado",
+      "Se descarta completamente en las líneas y recipientes internos del proceso de agua separada debido a la especificación de materiales en acero inoxidable superdúplex o dúplex, y componentes en 316L ya que se pasivan efectivamente en soluciones acuosas con alta salinidad.",
+      "—"
+    ],
+    "fuente": "B3 tabla DOCX 36, fila 13"
+  },
+  {
+    "id": "B3-M013",
+    "grupo": "B3",
+    "referencia": "Fragilización por hidrógeno (HIC)",
+    "campos": [
+      "Descartado",
+      "Se descarta debido a los bajos niveles operativos de pH y presiones parciales de H₂S esperados después del drenaje cerrado, el uso de aceros inoxidables resistentes y controles de dureza estrictos según la NACE MR0175.",
+      "—"
+    ],
+    "fuente": "B3 tabla DOCX 36, fila 14"
+  },
+  {
+    "id": "B3-M015",
+    "grupo": "B3",
+    "referencia": "Corrosión por amina",
+    "campos": [
+      "Presente",
+      "Ataque electroquímico en zonas de alta velocidad en tuberías de acero al carbono por amina rica caliente con absorción de gases ácidos.",
+      "API 571"
+    ],
+    "fuente": "B3 tabla DOCX 36, fila 16"
+  },
+  {
+    "id": "B3-M016",
+    "grupo": "B3",
+    "referencia": "Agrietamiento por tensión inducido por aminas (ASCC)",
+    "campos": [
+      "Presente",
+      "Fisuración en soldaduras de acero al carbono que no recibieron un pre y post calentamiento para aliviar las tensiones generadas por este procedimiento.",
+      "API 571"
+    ],
+    "fuente": "B3 tabla DOCX 36, fila 17"
+  },
+  {
+    "id": "B3-M017",
+    "grupo": "B3",
+    "referencia": "Corrosión por degradación de aminas a baja temperatura",
+    "campos": [
+      "Descartado",
+      "Se descarta siempre y cuando se mantenga un control de temperatura de regeneración de aminas y la filtración de sales termoestables, evitando acumulaciones corrosivas severas.",
+      "—"
+    ],
+    "fuente": "B3 tabla DOCX 36, fila 18"
+  },
+  {
+    "id": "B3-M019",
+    "grupo": "B3",
+    "referencia": "Corrosión severa por salpicadura (splash zone corrosion)",
+    "campos": [
+      "Presente",
+      "Tasa de corrosión extremadamente alta en la interfase aire – agua debido al suministro de oxígeno disuelto y agitación mecánica que afecta al acero estructural A572 Gr. 50 si la barrera de protección falla.",
+      "ISO 12944 – ISO 19902 – API 571"
+    ],
+    "fuente": "B3 tabla DOCX 36, fila 20"
+  },
+  {
+    "id": "B3-M020",
+    "grupo": "B3",
+    "referencia": "Par galvánico",
+    "campos": [
+      "Presente",
+      "Riesgo de contacto entre metales disímiles en uniones bridadas o soportes.",
+      "—"
+    ],
+    "fuente": "B3 tabla DOCX 36, fila 21"
+  },
+  {
+    "id": "B3-M021",
+    "grupo": "B3",
+    "referencia": "Corrosión bajo tensión por cloruros (HIC)",
+    "campos": [
+      "Descartado",
+      "Se descarta este mecanismo en los pernos de alloy 625 debido a que esta aleación contiene un 20% de cromo y 9% de molibdeno lo que lo protege de este mecanismo de daño en ambientes marítimos.",
+      "—"
+    ],
+    "fuente": "B3 tabla DOCX 36, fila 22"
+  },
+  {
+    "id": "B3-M023",
+    "grupo": "B3",
+    "referencia": "Corrosión atmosférica externa en carcasas",
+    "campos": [
+      "Presente",
+      "Corrosión generalizada en las carcasas externas de los componentes.",
+      "ISO 12944-5"
+    ],
+    "fuente": "B3 tabla DOCX 36, fila 24"
+  },
+  {
+    "id": "B3-M024",
+    "grupo": "B3",
+    "referencia": "Corrosión por humedad",
+    "campos": [
+      "Presente",
+      "Riesgo de picaduras internas debido a una deficiente desecación y acumulación de humedad asociada a los cloruros ambientales aspirados por el compresor.",
+      "—"
+    ],
+    "fuente": "B3 tabla DOCX 36, fila 25"
+  },
+  {
+    "id": "B3-M025",
+    "grupo": "B3",
+    "referencia": "Corrosión interna por condensados ácidos en los tubos de escape (316L)",
+    "campos": [
+      "Descartado",
+      "Se descarta el ataque severo por condensación ácida en los tubos de escape de los motogeneradores gracias a la selección de acero inoxidable 316L en los tramos expuestos a gases de combustión calientes.",
+      "—"
+    ],
+    "fuente": "B3 tabla DOCX 36, fila 26"
+  },
+  {
+    "id": "B3-M027",
+    "grupo": "B3",
+    "referencia": "Corrosión bajo aislamiento (CUI)",
+    "campos": [
+      "Presente",
+      "Uno de los daños más críticos en tuberías de vapor y condensado revestidas donde la penetración de neblina salina combinada con temperaturas de operación genera una corrosión galvánica y generalizada severa en el acero al carbono.",
+      "API 571"
+    ],
+    "fuente": "B3 tabla DOCX 36, fila 28"
+  },
+  {
+    "id": "B3-M028",
+    "grupo": "B3",
+    "referencia": "Fatiga térmica en tubos",
+    "campos": [
+      "Presente",
+      "Debido a los cambios de temperatura cíclicos y repetitivos del componente se generan esfuerzos residuales que afectan la fluencia de estos generando corrosión y fluencia del material.",
+      "—"
+    ],
+    "fuente": "B3 tabla DOCX 36, fila 29"
+  },
+  {
+    "id": "B3-M030",
+    "grupo": "B3",
+    "referencia": "Desgaste mecánico por fricción (Fretting corrosion)",
+    "campos": [
+      "Presente",
+      "Posible desgaste por pequeños movimientos relativos entre la tubería apoyada y la estructura debido a la dilatación térmica y vibración operativa, mitigado parcialmente por el uso de la almohadilla de PTFE.",
+      "API 571"
+    ],
+    "fuente": "B3 tabla DOCX 36, fila 31"
+  },
+  {
+    "id": "B3-M031",
+    "grupo": "B3",
+    "referencia": "Corrosión galvánica severa entre tubería de producción y estructura de soporte",
+    "campos": [
+      "Descartado",
+      "Se descarta gracias a la interposición de almohadillas no metálicas de PTFE, las cuales actúan como una barrera dieléctrica perfecta que aísla eléctricamente los metales y previene el contacto galvánico directo entre los aceros al carbono o inoxidables de los soportes y la estructura marina.",
+      "—"
+    ],
+    "fuente": "B3 tabla DOCX 36, fila 32"
+  }
+]

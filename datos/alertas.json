@@ -1,0 +1,32 @@
+[
+  {
+    "id": "INT-01",
+    "tema": "B1/B2 presión de llegada",
+    "detalle": "B2 utiliza 50 bar como hipótesis de presión de diseño aguas abajo y el escenario fija 320 bar en cabezal B1; falta definir condiciones reales de interfaz y punto de reducción."
+  },
+  {
+    "id": "INT-02",
+    "tema": "B2/B3 tanques de condensado",
+    "detalle": "B2 incluye tanque conceptual de 500 m³ y B3 indica dos tanques de aproximadamente 1590 m³; verificar alcance, ubicación y dimensión final sin fusionarlos automáticamente."
+  },
+  {
+    "id": "INT-03",
+    "tema": "B2/B3 enfriamiento",
+    "detalle": "Confirmar agua de mar clorada versus circuito de agua dulce tratada, cloro residual y temperatura antes de elegir material de tubos."
+  },
+  {
+    "id": "INT-04",
+    "tema": "B2/B3 aminas y TEG",
+    "detalle": "Ambos inventarios contienen equipos de amina y TEG; verificar fronteras para evitar contar o simular dos veces el mismo elemento."
+  },
+  {
+    "id": "INT-05",
+    "tema": "B2 copia de B3",
+    "detalle": "La tabla de correspondencia B3 dentro del informe B2 no se incorporó al inventario B2; solo se usan tablas de equipos B2."
+  },
+  {
+    "id": "INT-06",
+    "tema": "B1 materiales y normativa",
+    "detalle": "Algunos registros contienen denominaciones o citas incompletas; se preservaron en el dato fuente para validación por su grupo."
+  }
+]

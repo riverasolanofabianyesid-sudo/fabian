@@ -1,0 +1,7 @@
+﻿grupo,interfaz,ubicacion,pendientes,fuente
+B2,,Válvula de llegada de la línea de conducción.,"Presión y temperatura reales, material y clase de la unión, reducción de presión, dimensiones y ubicación de junta aislante.",B2 tabla interfaz fila 2
+B2,,"Agua de enfriamiento, aire de instrumentos, drenajes y entregas.","Cloro residual, temperatura del agua, compatibilidad de intercambiadores, destino de agua agria y vapores, conexiones de producto.",B2 tabla interfaz fila 3
+B2,,Protección catódica y aislamiento entre sistemas.,"Interferencia eléctrica, continuidad y responsabilidades de la junta aislante.",B2 tabla interfaz fila 4
+B3,B1 ↔ B2,Válvula de llegada de la línea de conducción al límite de la planta,"Condiciones de entrega, material a cada lado y ubicación de la junta aislante.",B3 tabla interfaz fila 2
+B3,B2 ↔ B3,"Agua de enfriamiento, aire de instrumentos y drenajes",Nivel de cloro residual que B3 mantiene y el límite de temperatura que ese nivel impone a los materiales de los intercambiadores de B2.,B3 tabla interfaz fila 3
+B3,B3 ↔ B1,Protección catódica de la estructura frente a la protección catódica submarina,"Dónde va la junta aislante, quién la instala y cómo se evita la interferencia entre los dos sistemas.",B3 tabla interfaz fila 4

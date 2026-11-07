@@ -1,0 +1,1810 @@
+[
+  {
+    "grupo": "B3",
+    "id_tabla": 10,
+    "parametro": "Temperatura superficial media anual",
+    "valor": "27,2",
+    "unidad": "°C",
+    "fuente": "B3 tabla DOCX 10, fila 3"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 10,
+    "parametro": "Temperatura superficial mínima mensual",
+    "valor": "25,5",
+    "unidad": "°C",
+    "fuente": "B3 tabla DOCX 10, fila 4"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 10,
+    "parametro": "Temperatura superficial máxima mensual",
+    "valor": "29",
+    "unidad": "°C",
+    "fuente": "B3 tabla DOCX 10, fila 5"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 10,
+    "parametro": "Temperatura de diseño máxima (propuesta)",
+    "valor": "32",
+    "unidad": "°C",
+    "fuente": "B3 tabla DOCX 10, fila 6"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 10,
+    "parametro": "Temperatura a 780 m (profundidad de agua en los pozos)",
+    "valor": "6,35",
+    "unidad": "°C",
+    "fuente": "B3 tabla DOCX 10, fila 7"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 10,
+    "parametro": "Profundidad de la toma de agua de mar",
+    "valor": "VACÍO",
+    "unidad": "m",
+    "fuente": "B3 tabla DOCX 10, fila 8"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 10,
+    "parametro": "Salinidad superficial mínima",
+    "valor": "36,16",
+    "unidad": "PSU",
+    "fuente": "B3 tabla DOCX 10, fila 10"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 10,
+    "parametro": "Salinidad superficial máxima",
+    "valor": "37,1",
+    "unidad": "PSU",
+    "fuente": "B3 tabla DOCX 10, fila 11"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 10,
+    "parametro": "Salinidad de referencia (promedio del rango)",
+    "valor": "36,63",
+    "unidad": "PSU",
+    "fuente": "B3 tabla DOCX 10, fila 12"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 10,
+    "parametro": "Densidad a S = 36,7 y T = 27,2 °C",
+    "valor": "1,02394",
+    "unidad": "kg/L",
+    "fuente": "B3 tabla DOCX 10, fila 13"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 10,
+    "parametro": "Cloruros a la salinidad mínima",
+    "valor": "20 470",
+    "unidad": "mg/L",
+    "fuente": "B3 tabla DOCX 10, fila 14"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 10,
+    "parametro": "Cloruros a la salinidad máxima",
+    "valor": "21 002",
+    "unidad": "mg/L",
+    "fuente": "B3 tabla DOCX 10, fila 15"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 10,
+    "parametro": "Cloruros de referencia",
+    "valor": "20 736",
+    "unidad": "mg/L",
+    "fuente": "B3 tabla DOCX 10, fila 16"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 10,
+    "parametro": "Sodio (Na⁺)",
+    "valor": "11 541",
+    "unidad": "mg/L",
+    "fuente": "B3 tabla DOCX 10, fila 17"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 10,
+    "parametro": "Sulfato (SO₄²⁻)",
+    "valor": "2906",
+    "unidad": "mg/L",
+    "fuente": "B3 tabla DOCX 10, fila 18"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 10,
+    "parametro": "Magnesio (Mg²⁺)",
+    "valor": "1382",
+    "unidad": "mg/L",
+    "fuente": "B3 tabla DOCX 10, fila 19"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 10,
+    "parametro": "Calcio (Ca²⁺)",
+    "valor": "442",
+    "unidad": "mg/L",
+    "fuente": "B3 tabla DOCX 10, fila 20"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 10,
+    "parametro": "Potasio (K⁺)",
+    "valor": "428",
+    "unidad": "mg/L",
+    "fuente": "B3 tabla DOCX 10, fila 21"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 10,
+    "parametro": "Bromuro (Br⁻)",
+    "valor": "72,12",
+    "unidad": "mg/L",
+    "fuente": "B3 tabla DOCX 10, fila 22"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 10,
+    "parametro": "Bicarbonato (HCO₃⁻)",
+    "valor": "146",
+    "unidad": "mg/L",
+    "fuente": "B3 tabla DOCX 10, fila 23"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 10,
+    "parametro": "pH superficial",
+    "valor": "7,6 – 8,2",
+    "unidad": "",
+    "fuente": "B3 tabla DOCX 10, fila 24"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 10,
+    "parametro": "Oxígeno disuelto de saturación a 29,0 °C",
+    "valor": "6,26",
+    "unidad": "mg/L",
+    "fuente": "B3 tabla DOCX 10, fila 25"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 10,
+    "parametro": "Oxígeno disuelto de saturación a 25,5 °C",
+    "valor": "6,67",
+    "unidad": "mg/L",
+    "fuente": "B3 tabla DOCX 10, fila 26"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 10,
+    "parametro": "Oxígeno disuelto observado en superficie (La Guajira)",
+    "valor": "4,56",
+    "unidad": "'ppm' (sic)",
+    "fuente": "B3 tabla DOCX 10, fila 27"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 10,
+    "parametro": "Equivalente si el dato fuera mL/L",
+    "valor": "6,516",
+    "unidad": "mg/L",
+    "fuente": "B3 tabla DOCX 10, fila 28"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 10,
+    "parametro": "Sulfuros / H2S",
+    "valor": "No esperado",
+    "unidad": "",
+    "fuente": "B3 tabla DOCX 10, fila 29"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 10,
+    "parametro": "Presión de la línea",
+    "valor": "VACÍO",
+    "unidad": "bar",
+    "fuente": "B3 tabla DOCX 10, fila 31"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 10,
+    "parametro": "Velocidad del flujo",
+    "valor": "VACÍO",
+    "unidad": "m/s",
+    "fuente": "B3 tabla DOCX 10, fila 32"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 10,
+    "parametro": "Sólidos suspendidos / arena",
+    "valor": "VACÍO",
+    "unidad": "mg/L",
+    "fuente": "B3 tabla DOCX 10, fila 33"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 10,
+    "parametro": "Actividad biológica",
+    "valor": "Alta esperada",
+    "unidad": "",
+    "fuente": "B3 tabla DOCX 10, fila 34"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 10,
+    "parametro": "Régimen de la red contraincendio",
+    "valor": "Estancada, presurizada",
+    "unidad": "",
+    "fuente": "B3 tabla DOCX 10, fila 35"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 12,
+    "parametro": "Temperatura máxima mensual observada",
+    "valor": "29",
+    "unidad": "°C",
+    "fuente": "B3 tabla DOCX 12, fila 3"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 12,
+    "parametro": "Temperatura de diseño máxima (propuesta)",
+    "valor": "32",
+    "unidad": "°C",
+    "fuente": "B3 tabla DOCX 12, fila 4"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 12,
+    "parametro": "Cloruros de referencia",
+    "valor": "20 736",
+    "unidad": "mg/L",
+    "fuente": "B3 tabla DOCX 12, fila 5"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 12,
+    "parametro": "pH",
+    "valor": "≈ el de S1",
+    "unidad": "",
+    "fuente": "B3 tabla DOCX 12, fila 6"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 12,
+    "parametro": "Oxidantes presentes",
+    "valor": "Cloro libre + bromo-oxidantes",
+    "unidad": "",
+    "fuente": "B3 tabla DOCX 12, fila 7"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 12,
+    "parametro": "Dosis continua típica en la toma",
+    "valor": "1 – 2",
+    "unidad": "ppm",
+    "fuente": "B3 tabla DOCX 12, fila 9"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 12,
+    "parametro": "Dosis de choque típica",
+    "valor": "4 – 6 ppm, 15–20 min, 2–4 veces/día",
+    "unidad": "",
+    "fuente": "B3 tabla DOCX 12, fila 10"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 12,
+    "parametro": "Residual típico en la salida",
+    "valor": "0,1 – 0,5",
+    "unidad": "ppm",
+    "fuente": "B3 tabla DOCX 12, fila 11"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 12,
+    "parametro": "Residual típico reportado en plataformas",
+    "valor": "0,5 – 1,0 (0,7 típico)",
+    "unidad": "mg/L",
+    "fuente": "B3 tabla DOCX 12, fila 12"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 12,
+    "parametro": "Residual máximo permitido con rendijas, M-001 Rev. 2 (1997)",
+    "valor": "1,5",
+    "unidad": "ppm",
+    "fuente": "B3 tabla DOCX 12, fila 14"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 12,
+    "parametro": "T máxima con rendijas, M-001 Rev. 2 (1997)",
+    "valor": "15",
+    "unidad": "°C",
+    "fuente": "B3 tabla DOCX 12, fila 15"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 12,
+    "parametro": "T máxima sin rendijas, M-001 Rev. 2 (1997)",
+    "valor": "30",
+    "unidad": "°C",
+    "fuente": "B3 tabla DOCX 12, fila 16"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 12,
+    "parametro": "T máxima para superdúplex según M-001 (2014) / ISO 21457",
+    "valor": "20",
+    "unidad": "°C",
+    "fuente": "B3 tabla DOCX 12, fila 17"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 12,
+    "parametro": "Diferencia entre ediciones",
+    "valor": "5",
+    "unidad": "°C",
+    "fuente": "B3 tabla DOCX 12, fila 18"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 12,
+    "parametro": "Experiencia de campo: superdúplex sin rendijas",
+    "valor": "OK hasta ≥ 40 °C",
+    "unidad": "",
+    "fuente": "B3 tabla DOCX 12, fila 19"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 12,
+    "parametro": "Experiencia de campo: fallas en soldaduras",
+    "valor": "43 °C con 2 mg/L",
+    "unidad": "",
+    "fuente": "B3 tabla DOCX 12, fila 20"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 12,
+    "parametro": "Experiencia de campo: 6Mo con rendijas",
+    "valor": "30 – 35 °C",
+    "unidad": "°C",
+    "fuente": "B3 tabla DOCX 12, fila 21"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 12,
+    "parametro": "Residual de cloro propuesto a la entrada de los intercambiadores de B2",
+    "valor": "0,5",
+    "unidad": "mg/L como Cl2",
+    "fuente": "B3 tabla DOCX 12, fila 23"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 12,
+    "parametro": "T máxima de pared / agua en los intercambiadores de B2",
+    "valor": "VACÍO",
+    "unidad": "°C",
+    "fuente": "B3 tabla DOCX 12, fila 24"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 12,
+    "parametro": "Frecuencia y duración del choque",
+    "valor": "VACÍO",
+    "unidad": "",
+    "fuente": "B3 tabla DOCX 12, fila 25"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 14,
+    "parametro": "Tipo de fluido",
+    "valor": "Agua dulce tratada, circuito cerrado",
+    "unidad": "—",
+    "fuente": "B3 tabla DOCX 14, fila 3"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 14,
+    "parametro": "Temperatura de suministro / retorno (ejemplo)",
+    "valor": "38 / 48",
+    "unidad": "°C",
+    "fuente": "B3 tabla DOCX 14, fila 4"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 14,
+    "parametro": "Rango típico de lazos cerrados",
+    "valor": "35 – 80",
+    "unidad": "°C",
+    "fuente": "B3 tabla DOCX 14, fila 5"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 14,
+    "parametro": "Temperatura de diseño de este circuito",
+    "valor": "VACÍO",
+    "unidad": "°C",
+    "fuente": "B3 tabla DOCX 14, fila 6"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 14,
+    "parametro": "Presión de operación",
+    "valor": "VACÍO",
+    "unidad": "bar",
+    "fuente": "B3 tabla DOCX 14, fila 7"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 14,
+    "parametro": "pH para acero al carbono",
+    "valor": "9,0 – 10,5",
+    "unidad": "—",
+    "fuente": "B3 tabla DOCX 14, fila 9"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 14,
+    "parametro": "Nitrito (inhibidor) a mantener",
+    "valor": "600 – 800",
+    "unidad": "mg/L",
+    "fuente": "B3 tabla DOCX 14, fila 10"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 14,
+    "parametro": "Relación mínima nitrito / (cloruro + sulfato)",
+    "valor": "5",
+    "unidad": "—",
+    "fuente": "B3 tabla DOCX 14, fila 11"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 14,
+    "parametro": "Cloruros típicos de lazos cerrados (tope)",
+    "valor": "50",
+    "unidad": "mg/L",
+    "fuente": "B3 tabla DOCX 14, fila 12"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 14,
+    "parametro": "Cloruros máximos de diseño (propuesta)",
+    "valor": "50",
+    "unidad": "mg/L",
+    "fuente": "B3 tabla DOCX 14, fila 13"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 14,
+    "parametro": "Nitrito mínimo si Cl⁻ = 50 y SO₄²⁻ = 0 (ilustrativo)",
+    "valor": "250",
+    "unidad": "mg/L",
+    "fuente": "B3 tabla DOCX 14, fila 14"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 14,
+    "parametro": "Oxígeno disuelto",
+    "valor": "Mínimo",
+    "unidad": "—",
+    "fuente": "B3 tabla DOCX 14, fila 15"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 14,
+    "parametro": "Bacterias totales",
+    "valor": "< 1 000",
+    "unidad": "UFC/mL",
+    "fuente": "B3 tabla DOCX 14, fila 16"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 14,
+    "parametro": "Calidad del agua de reposición (Cl⁻, conductividad, pH)",
+    "valor": "VACÍO",
+    "unidad": "—",
+    "fuente": "B3 tabla DOCX 14, fila 17"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 16,
+    "parametro": "Clase de humedad (inventario)",
+    "valor": "2",
+    "unidad": "clase",
+    "fuente": "B3 tabla DOCX 16, fila 3"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 16,
+    "parametro": "Punto de rocío a presión de esa clase",
+    "valor": "-40",
+    "unidad": "°C",
+    "fuente": "B3 tabla DOCX 16, fila 4"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 16,
+    "parametro": "Clase de partículas",
+    "valor": "VACÍO",
+    "unidad": "clase",
+    "fuente": "B3 tabla DOCX 16, fila 5"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 16,
+    "parametro": "Clase de aceite",
+    "valor": "VACÍO",
+    "unidad": "clase",
+    "fuente": "B3 tabla DOCX 16, fila 6"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 16,
+    "parametro": "Presión de operación",
+    "valor": "VACÍO",
+    "unidad": "bar",
+    "fuente": "B3 tabla DOCX 16, fila 8"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 16,
+    "parametro": "Temperatura del aire",
+    "valor": "VACÍO",
+    "unidad": "°C",
+    "fuente": "B3 tabla DOCX 16, fila 9"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 16,
+    "parametro": "Contaminantes de la toma de aire",
+    "valor": "VACÍO",
+    "unidad": "—",
+    "fuente": "B3 tabla DOCX 16, fila 10"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 16,
+    "parametro": "Estado normal del aire seco",
+    "valor": "Sin agua líquida",
+    "unidad": "—",
+    "fuente": "B3 tabla DOCX 16, fila 11"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 16,
+    "parametro": "Modo de falla relevante",
+    "valor": "Falla del secador",
+    "unidad": "—",
+    "fuente": "B3 tabla DOCX 16, fila 12"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 18,
+    "parametro": "Pureza requerida",
+    "valor": "VACÍO",
+    "unidad": "% N2",
+    "fuente": "B3 tabla DOCX 18, fila 3"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 18,
+    "parametro": "Rango comercial de generadores offshore",
+    "valor": "95 – 99,999",
+    "unidad": "% N2",
+    "fuente": "B3 tabla DOCX 18, fila 4"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 18,
+    "parametro": "Punto de rocío",
+    "valor": "VACÍO",
+    "unidad": "°C",
+    "fuente": "B3 tabla DOCX 18, fila 5"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 18,
+    "parametro": "Presión y temperatura",
+    "valor": "VACÍO",
+    "unidad": "bar / °C",
+    "fuente": "B3 tabla DOCX 18, fila 6"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 18,
+    "parametro": "Usos en el inventario",
+    "valor": "Manta de N2 del tanque de amina",
+    "unidad": "",
+    "fuente": "B3 tabla DOCX 18, fila 7"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 18,
+    "parametro": "Corrosividad",
+    "valor": "Inerte y seco",
+    "unidad": "",
+    "fuente": "B3 tabla DOCX 18, fila 8"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 20,
+    "parametro": "Lluvia anual (costa de Riohacha)",
+    "valor": "555",
+    "unidad": "mm/año",
+    "fuente": "B3 tabla DOCX 20, fila 3"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 20,
+    "parametro": "Origen del drenaje",
+    "valor": "Lluvia, lavado de cubierta, agua de mar de lavado, derrames menores",
+    "unidad": "—",
+    "fuente": "B3 tabla DOCX 20, fila 4"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 20,
+    "parametro": "Cloruros: cota superior (si hay agua de mar de lavado)",
+    "valor": "20 736",
+    "unidad": "mg/L",
+    "fuente": "B3 tabla DOCX 20, fila 6"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 20,
+    "parametro": "pH",
+    "valor": "VACÍO",
+    "unidad": "—",
+    "fuente": "B3 tabla DOCX 20, fila 7"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 20,
+    "parametro": "Hidrocarburos / aceite en agua",
+    "valor": "Trazas",
+    "unidad": "—",
+    "fuente": "B3 tabla DOCX 20, fila 8"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 20,
+    "parametro": "Detergentes y químicos de limpieza",
+    "valor": "VACÍO",
+    "unidad": "—",
+    "fuente": "B3 tabla DOCX 20, fila 9"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 20,
+    "parametro": "Sólidos",
+    "valor": "VACÍO",
+    "unidad": "—",
+    "fuente": "B3 tabla DOCX 20, fila 10"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 20,
+    "parametro": "Temperatura",
+    "valor": "≈ ambiente (23 – 36 °C)",
+    "unidad": "°C",
+    "fuente": "B3 tabla DOCX 20, fila 11"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 20,
+    "parametro": "Régimen",
+    "valor": "Intermitente, con tramos estancados",
+    "unidad": "—",
+    "fuente": "B3 tabla DOCX 20, fila 12"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 22,
+    "parametro": "pH del agua condensada",
+    "valor": "3,9",
+    "unidad": "—",
+    "fuente": "B3 tabla DOCX 22, fila 3"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 22,
+    "parametro": "Cloruros del agua de formación (desde el año 8)",
+    "valor": "28 000",
+    "unidad": "mg/L",
+    "fuente": "B3 tabla DOCX 22, fila 4"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 22,
+    "parametro": "CO₂ en la fase gas",
+    "valor": "1,8",
+    "unidad": "% molar",
+    "fuente": "B3 tabla DOCX 22, fila 5"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 22,
+    "parametro": "H₂S en la fase gas",
+    "valor": "1,4",
+    "unidad": "% molar",
+    "fuente": "B3 tabla DOCX 22, fila 6"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 22,
+    "parametro": "Temperatura de operación",
+    "valor": "95",
+    "unidad": "°C",
+    "fuente": "B3 tabla DOCX 22, fila 7"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 22,
+    "parametro": "Temperatura máxima",
+    "valor": "120",
+    "unidad": "°C",
+    "fuente": "B3 tabla DOCX 22, fila 8"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 22,
+    "parametro": "Presión de cabezal (origen, NO del drenaje)",
+    "valor": "320",
+    "unidad": "bar",
+    "fuente": "B3 tabla DOCX 22, fila 9"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 22,
+    "parametro": "Inhibidor de hidratos",
+    "valor": "MEG, inyección continua",
+    "unidad": "—",
+    "fuente": "B3 tabla DOCX 22, fila 10"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 22,
+    "parametro": "Sólidos",
+    "valor": "No previstos inicialmente",
+    "unidad": "—",
+    "fuente": "B3 tabla DOCX 22, fila 11"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 22,
+    "parametro": "Vida de diseño",
+    "valor": "25",
+    "unidad": "años",
+    "fuente": "B3 tabla DOCX 22, fila 12"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 22,
+    "parametro": "Presión absoluta del cabezal de drenaje cerrado",
+    "valor": "1,013",
+    "unidad": "bar",
+    "fuente": "B3 tabla DOCX 22, fila 14"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 22,
+    "parametro": "Presión parcial de H₂S",
+    "valor": "1,418",
+    "unidad": "kPa",
+    "fuente": "B3 tabla DOCX 22, fila 15"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 22,
+    "parametro": "Presión parcial de CO₂",
+    "valor": "1,823",
+    "unidad": "kPa",
+    "fuente": "B3 tabla DOCX 22, fila 16"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 22,
+    "parametro": "Umbral de H₂S para considerar fisuración por sulfuros",
+    "valor": "0,3",
+    "unidad": "kPa",
+    "fuente": "B3 tabla DOCX 22, fila 17"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 22,
+    "parametro": "¿Supera el umbral?",
+    "valor": "Sí: cláusula 7.1.2 (servicio amargo)",
+    "unidad": "—",
+    "fuente": "B3 tabla DOCX 22, fila 18"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 22,
+    "parametro": "Presión absoluta mínima para superar el umbral",
+    "valor": "0,214",
+    "unidad": "bar",
+    "fuente": "B3 tabla DOCX 22, fila 19"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 24,
+    "parametro": "Temperatura del aire, media anual (Riohacha)",
+    "valor": "29,1",
+    "unidad": "°C",
+    "fuente": "B3 tabla DOCX 24, fila 3"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 24,
+    "parametro": "Humedad relativa media mensual",
+    "valor": "58 – 76",
+    "unidad": "%",
+    "fuente": "B3 tabla DOCX 24, fila 4"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 24,
+    "parametro": "Viento medio mensual",
+    "valor": "13 – 23",
+    "unidad": "km/h",
+    "fuente": "B3 tabla DOCX 24, fila 5"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 24,
+    "parametro": "Categoría de corrosividad",
+    "valor": "CX (mínimo C5)",
+    "unidad": "—",
+    "fuente": "B3 tabla DOCX 24, fila 6"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 24,
+    "parametro": "Acero al carbono, pérdida del primer año: C5",
+    "valor": ">80 a 200",
+    "unidad": "µm",
+    "fuente": "B3 tabla DOCX 24, fila 7"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 24,
+    "parametro": "Acero al carbono, pérdida del primer año: CX",
+    "valor": ">200 a 700",
+    "unidad": "µm",
+    "fuente": "B3 tabla DOCX 24, fila 8"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 24,
+    "parametro": "Zinc, pérdida del primer año: C5 / CX",
+    "valor": ">4,2–8,4 / >8,4–25",
+    "unidad": "µm",
+    "fuente": "B3 tabla DOCX 24, fila 9"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 24,
+    "parametro": "Acero al carbono, velocidad observada en atmósfera marina tropical",
+    "valor": "0,4 – 0,7",
+    "unidad": "mm/año",
+    "fuente": "B3 tabla DOCX 24, fila 10"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 24,
+    "parametro": "Cloruro depositado (clase de salinidad ISO 9223)",
+    "valor": "VACÍO",
+    "unidad": "mg/m²·día",
+    "fuente": "B3 tabla DOCX 24, fila 11"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 24,
+    "parametro": "Datos metoceánicos (oleaje, viento extremo)",
+    "valor": "VACÍO",
+    "unidad": "—",
+    "fuente": "B3 tabla DOCX 24, fila 12"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 24,
+    "parametro": "Acero al carbono, velocidad observada",
+    "valor": "0,95",
+    "unidad": "mm/año",
+    "fuente": "B3 tabla DOCX 24, fila 14"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 24,
+    "parametro": "Pérdida acumulada a 25 años sin protección (ilustrativa)",
+    "valor": "23,75",
+    "unidad": "mm",
+    "fuente": "B3 tabla DOCX 24, fila 15"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 24,
+    "parametro": "Vida de diseño",
+    "valor": "25",
+    "unidad": "años",
+    "fuente": "B3 tabla DOCX 24, fila 16"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 24,
+    "parametro": "Extensión vertical de la zona",
+    "valor": "VACÍO",
+    "unidad": "m",
+    "fuente": "B3 tabla DOCX 24, fila 17"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 24,
+    "parametro": "Naturaleza del ataque",
+    "valor": "Ciclos húmedo/seco; máximo O₂ y sal",
+    "unidad": "—",
+    "fuente": "B3 tabla DOCX 24, fila 18"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 24,
+    "parametro": "Temperatura del agua: máxima mensual superficial",
+    "valor": "29",
+    "unidad": "°C",
+    "fuente": "B3 tabla DOCX 24, fila 20"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 24,
+    "parametro": "Temperatura del agua a 780 m",
+    "valor": "6,35",
+    "unidad": "°C",
+    "fuente": "B3 tabla DOCX 24, fila 21"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 24,
+    "parametro": "Cloruros de referencia",
+    "valor": "20 736",
+    "unidad": "mg/L",
+    "fuente": "B3 tabla DOCX 24, fila 22"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 24,
+    "parametro": "Acero al carbono sin protección, velocidad observada",
+    "valor": "0,35",
+    "unidad": "mm/año",
+    "fuente": "B3 tabla DOCX 24, fila 23"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 24,
+    "parametro": "Potencial de protección, acero al carbono en agua de mar aireada",
+    "valor": "-0,8",
+    "unidad": "V vs Ag/AgCl/agua de mar",
+    "fuente": "B3 tabla DOCX 24, fila 24"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 24,
+    "parametro": "Potencial de protección con bacterias sulfato-reductoras (anaerobio)",
+    "valor": "-0,9",
+    "unidad": "V vs Ag/AgCl/agua de mar",
+    "fuente": "B3 tabla DOCX 24, fila 25"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 24,
+    "parametro": "Límite negativo (sobreprotección), aceros de resistencia normal",
+    "valor": "-1,1",
+    "unidad": "V vs Ag/AgCl/agua de mar",
+    "fuente": "B3 tabla DOCX 24, fila 26"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 24,
+    "parametro": "Límite negativo, resistencia > 700 MPa",
+    "valor": "-0,95",
+    "unidad": "V vs Ag/AgCl/agua de mar",
+    "fuente": "B3 tabla DOCX 24, fila 27"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 24,
+    "parametro": "Límite negativo, aceros propensos a fisuración asistida por H",
+    "valor": "-0,83",
+    "unidad": "V vs Ag/AgCl/agua de mar",
+    "fuente": "B3 tabla DOCX 24, fila 28"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 24,
+    "parametro": "Límite negativo para dúplex bajo PC",
+    "valor": "VACÍO",
+    "unidad": "V",
+    "fuente": "B3 tabla DOCX 24, fila 29"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 24,
+    "parametro": "Junta aislante y PC entre B1 y B3",
+    "valor": "VACÍO",
+    "unidad": "—",
+    "fuente": "B3 tabla DOCX 24, fila 30"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 24,
+    "parametro": "Profundidad de la estructura de B3",
+    "valor": "VACÍO",
+    "unidad": "m",
+    "fuente": "B3 tabla DOCX 24, fila 31"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 26,
+    "parametro": "H₂S total, máximo",
+    "valor": "6",
+    "unidad": "mg/m³",
+    "fuente": "B3 tabla DOCX 26, fila 3"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 26,
+    "parametro": "Azufre total, máximo",
+    "valor": "23",
+    "unidad": "mg/m³",
+    "fuente": "B3 tabla DOCX 26, fila 4"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 26,
+    "parametro": "CO₂, máximo",
+    "valor": "2",
+    "unidad": "% vol",
+    "fuente": "B3 tabla DOCX 26, fila 5"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 26,
+    "parametro": "N₂ máximo / inertes totales máximo (CO₂ + N₂ + O₂)",
+    "valor": "3 / 5",
+    "unidad": "% vol",
+    "fuente": "B3 tabla DOCX 26, fila 6"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 26,
+    "parametro": "O₂, máximo",
+    "valor": "0,1",
+    "unidad": "% vol",
+    "fuente": "B3 tabla DOCX 26, fila 7"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 26,
+    "parametro": "Vapor de agua, máximo",
+    "valor": "97",
+    "unidad": "mg/m³",
+    "fuente": "B3 tabla DOCX 26, fila 8"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 26,
+    "parametro": "Poder calorífico bruto",
+    "valor": "35,4 – 42,8",
+    "unidad": "MJ/m³",
+    "fuente": "B3 tabla DOCX 26, fila 9"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 26,
+    "parametro": "Punto de rocío de hidrocarburos, máximo",
+    "valor": "7,2",
+    "unidad": "°C",
+    "fuente": "B3 tabla DOCX 26, fila 10"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 26,
+    "parametro": "Temperatura estándar de referencia",
+    "valor": "15,56",
+    "unidad": "°C",
+    "fuente": "B3 tabla DOCX 26, fila 11"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 26,
+    "parametro": "Presión estándar de referencia",
+    "valor": "1,01005",
+    "unidad": "bar",
+    "fuente": "B3 tabla DOCX 26, fila 12"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 26,
+    "parametro": "Volumen molar del gas a condiciones estándar",
+    "valor": "23,766",
+    "unidad": "L/mol",
+    "fuente": "B3 tabla DOCX 26, fila 14"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 26,
+    "parametro": "H₂S máximo expresado en ppmv",
+    "valor": "4,184",
+    "unidad": "ppmv",
+    "fuente": "B3 tabla DOCX 26, fila 15"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 26,
+    "parametro": "Presión de operación (supuesto ilustrativo)",
+    "valor": "100",
+    "unidad": "bar",
+    "fuente": "B3 tabla DOCX 26, fila 16"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 26,
+    "parametro": "Presión parcial de H₂S con el gas en especificación",
+    "valor": "0,042",
+    "unidad": "kPa",
+    "fuente": "B3 tabla DOCX 26, fila 17"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 26,
+    "parametro": "Umbral de H₂S (ISO 15156-2, 7.1)",
+    "valor": "0,3",
+    "unidad": "kPa",
+    "fuente": "B3 tabla DOCX 26, fila 18"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 26,
+    "parametro": "¿Es servicio amargo con el gas en especificación?",
+    "valor": "No: coincide con 'servicio no amargo' del inventario",
+    "unidad": "—",
+    "fuente": "B3 tabla DOCX 26, fila 19"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 26,
+    "parametro": "Presión parcial de H₂S si el gas llegara sin endulzar",
+    "valor": "140",
+    "unidad": "kPa",
+    "fuente": "B3 tabla DOCX 26, fila 20"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 26,
+    "parametro": "Presión parcial de CO₂ con el CO₂ en el máximo permitido",
+    "valor": "200",
+    "unidad": "kPa",
+    "fuente": "B3 tabla DOCX 26, fila 21"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 26,
+    "parametro": "Presión de operación real",
+    "valor": "VACÍO",
+    "unidad": "bar",
+    "fuente": "B3 tabla DOCX 26, fila 23"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 26,
+    "parametro": "Temperatura del gas y temperatura mínima de diseño",
+    "valor": "VACÍO",
+    "unidad": "°C",
+    "fuente": "B3 tabla DOCX 26, fila 24"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 26,
+    "parametro": "Agua libre",
+    "valor": "Ninguna en especificación",
+    "unidad": "—",
+    "fuente": "B3 tabla DOCX 26, fila 25"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 26,
+    "parametro": "Suelo del tramo enterrado (resistividad, pH, cloruros, humedad)",
+    "valor": "VACÍO",
+    "unidad": "—",
+    "fuente": "B3 tabla DOCX 26, fila 26"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 28,
+    "parametro": "Caudal de la línea de carga",
+    "valor": "120",
+    "unidad": "m³/h",
+    "fuente": "B3 tabla DOCX 28, fila 3"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 28,
+    "parametro": "Diámetro interno NPS 6 Sch 40",
+    "valor": "154,1",
+    "unidad": "mm",
+    "fuente": "B3 tabla DOCX 28, fila 4"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 28,
+    "parametro": "Velocidad en la línea de carga",
+    "valor": "1,787",
+    "unidad": "m/s",
+    "fuente": "B3 tabla DOCX 28, fila 5"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 28,
+    "parametro": "Diámetro del tanque",
+    "valor": "15",
+    "unidad": "m",
+    "fuente": "B3 tabla DOCX 28, fila 6"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 28,
+    "parametro": "Altura del tanque",
+    "valor": "9",
+    "unidad": "m",
+    "fuente": "B3 tabla DOCX 28, fila 7"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 28,
+    "parametro": "Volumen por tanque",
+    "valor": "1590",
+    "unidad": "m³",
+    "fuente": "B3 tabla DOCX 28, fila 8"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 28,
+    "parametro": "Naturaleza",
+    "valor": "Hidrocarburo líquido estabilizado",
+    "unidad": "—",
+    "fuente": "B3 tabla DOCX 28, fila 10"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 28,
+    "parametro": "Composición, presión de vapor Reid, H₂S disuelto, BS&W y sal",
+    "valor": "VACÍO",
+    "unidad": "—",
+    "fuente": "B3 tabla DOCX 28, fila 11"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 28,
+    "parametro": "Temperatura de almacenamiento",
+    "valor": "VACÍO",
+    "unidad": "°C",
+    "fuente": "B3 tabla DOCX 28, fila 12"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 28,
+    "parametro": "Presión",
+    "valor": "Atmosférica",
+    "unidad": "—",
+    "fuente": "B3 tabla DOCX 28, fila 13"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 28,
+    "parametro": "pH del agua que sedimenta",
+    "valor": "3,9",
+    "unidad": "—",
+    "fuente": "B3 tabla DOCX 28, fila 15"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 28,
+    "parametro": "Cloruros del agua del fondo (desde el año 8)",
+    "valor": "28 000",
+    "unidad": "mg/L",
+    "fuente": "B3 tabla DOCX 28, fila 16"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 30,
+    "parametro": "Tipo de amina (MEA, DEA, MDEA)",
+    "valor": "VACÍO",
+    "unidad": "—",
+    "fuente": "B3 tabla DOCX 30, fila 3"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 30,
+    "parametro": "CO₂ del gas agrio",
+    "valor": "1,8",
+    "unidad": "% molar",
+    "fuente": "B3 tabla DOCX 30, fila 4"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 30,
+    "parametro": "H₂S del gas agrio",
+    "valor": "1,4",
+    "unidad": "% molar",
+    "fuente": "B3 tabla DOCX 30, fila 5"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 30,
+    "parametro": "Relación H₂S/CO₂",
+    "valor": "0,778",
+    "unidad": "—",
+    "fuente": "B3 tabla DOCX 30, fila 6"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 30,
+    "parametro": "Concentración máxima de MEA",
+    "valor": "20",
+    "unidad": "% peso",
+    "fuente": "B3 tabla DOCX 30, fila 8"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 30,
+    "parametro": "Carga máxima de gas ácido en amina rica (MEA, solo CO₂)",
+    "valor": "0,35",
+    "unidad": "mol/mol",
+    "fuente": "B3 tabla DOCX 30, fila 9"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 30,
+    "parametro": "Carga máxima de amina pobre",
+    "valor": "0,15",
+    "unidad": "mol/mol",
+    "fuente": "B3 tabla DOCX 30, fila 10"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 30,
+    "parametro": "Temperatura del absorbedor",
+    "valor": "< 88 (190 °F)",
+    "unidad": "°C",
+    "fuente": "B3 tabla DOCX 30, fila 11"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 30,
+    "parametro": "Sales estables (HSAS) por zonas de severidad, MEA/DEA",
+    "valor": "≤ 2 / 2–4 / > 4",
+    "unidad": "% peso",
+    "fuente": "B3 tabla DOCX 30, fila 12"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 30,
+    "parametro": "Sólidos suspendidos objetivo",
+    "valor": "1 – 5",
+    "unidad": "ppmw",
+    "fuente": "B3 tabla DOCX 30, fila 13"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 30,
+    "parametro": "Velocidad: amina rica en acero al carbono",
+    "valor": "0,9 – 1,5",
+    "unidad": "m/s",
+    "fuente": "B3 tabla DOCX 30, fila 14"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 30,
+    "parametro": "Velocidad: amina pobre en acero al carbono",
+    "valor": "2,1 – 3",
+    "unidad": "m/s",
+    "fuente": "B3 tabla DOCX 30, fila 15"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 30,
+    "parametro": "Velocidad en tubería de acero al carbono (API RP 945, citado)",
+    "valor": "1,8",
+    "unidad": "m/s",
+    "fuente": "B3 tabla DOCX 30, fila 16"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 30,
+    "parametro": "Temperaturas de amina pobre, rica y del rehervidor",
+    "valor": "VACÍO",
+    "unidad": "°C",
+    "fuente": "B3 tabla DOCX 30, fila 18"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 30,
+    "parametro": "Presión del absorbedor y del regenerador",
+    "valor": "VACÍO",
+    "unidad": "bar",
+    "fuente": "B3 tabla DOCX 30, fila 19"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 30,
+    "parametro": "Umbral de T para exigir alivio de tensiones (API RP 945)",
+    "valor": "VACÍO",
+    "unidad": "°C",
+    "fuente": "B3 tabla DOCX 30, fila 20"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 30,
+    "parametro": "Oxígeno: ingreso por el tanque (manta de N₂)",
+    "valor": "Controlado por manta",
+    "unidad": "—",
+    "fuente": "B3 tabla DOCX 30, fila 21"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 32,
+    "parametro": "Pureza del TEG pobre",
+    "valor": "> 99,1 (aceptable > 98,5)",
+    "unidad": "% peso",
+    "fuente": "B3 tabla DOCX 32, fila 3"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 32,
+    "parametro": "Temperatura del rehervidor",
+    "valor": "204 – 215 (400–420 °F)",
+    "unidad": "°C",
+    "fuente": "B3 tabla DOCX 32, fila 4"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 32,
+    "parametro": "Temperatura de cabeza de la columna de despojo",
+    "valor": "141 – 154 (285–310 °F)",
+    "unidad": "°C",
+    "fuente": "B3 tabla DOCX 32, fila 5"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 32,
+    "parametro": "pH del TEG",
+    "valor": "Objetivo 7,0 – 8,5; aceptable 6,5 – 9,0",
+    "unidad": "—",
+    "fuente": "B3 tabla DOCX 32, fila 6"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 32,
+    "parametro": "Filtración",
+    "valor": "10 – 25 µm + carbón activado",
+    "unidad": "—",
+    "fuente": "B3 tabla DOCX 32, fila 7"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 32,
+    "parametro": "Contaminantes que menciona la fuente",
+    "valor": "H₂S, CO₂, ácidos orgánicos, cloruros, hidrocarburos líquidos, sólidos",
+    "unidad": "—",
+    "fuente": "B3 tabla DOCX 32, fila 8"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 34,
+    "parametro": "H₂S máximo del gas combustible (hereda del gas de venta)",
+    "valor": "6",
+    "unidad": "mg/m³",
+    "fuente": "B3 tabla DOCX 34, fila 3"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 34,
+    "parametro": "Presión aguas arriba / aguas abajo",
+    "valor": "Clase 600 / Clase 150",
+    "unidad": "—",
+    "fuente": "B3 tabla DOCX 34, fila 4"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 34,
+    "parametro": "Temperatura de los gases de escape",
+    "valor": "VACÍO",
+    "unidad": "°C",
+    "fuente": "B3 tabla DOCX 34, fila 5"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 34,
+    "parametro": "Condensación ácida en arranque y parada",
+    "valor": "Posible",
+    "unidad": "—",
+    "fuente": "B3 tabla DOCX 34, fila 6"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 34,
+    "parametro": "pH del agua de alimentación",
+    "valor": "8,3 – 10,5",
+    "unidad": "—",
+    "fuente": "B3 tabla DOCX 34, fila 8"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 34,
+    "parametro": "Oxígeno disuelto antes del secuestrante",
+    "valor": "< 0,007",
+    "unidad": "ppm",
+    "fuente": "B3 tabla DOCX 34, fila 9"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 34,
+    "parametro": "Dureza total / hierro / cobre",
+    "valor": "< 0,5 / < 0,1 / < 0,05",
+    "unidad": "ppm",
+    "fuente": "B3 tabla DOCX 34, fila 10"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 34,
+    "parametro": "Presión y temperatura del vapor; pH del condensado",
+    "valor": "VACÍO",
+    "unidad": "—",
+    "fuente": "B3 tabla DOCX 34, fila 11"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 34,
+    "parametro": "Diámetro del tanque de agua de servicio",
+    "valor": "8,5",
+    "unidad": "m",
+    "fuente": "B3 tabla DOCX 34, fila 13"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 34,
+    "parametro": "Altura del tanque de agua de servicio",
+    "valor": "5",
+    "unidad": "m",
+    "fuente": "B3 tabla DOCX 34, fila 14"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 34,
+    "parametro": "Volumen por tanque",
+    "valor": "284",
+    "unidad": "m³",
+    "fuente": "B3 tabla DOCX 34, fila 15"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 34,
+    "parametro": "Origen y calidad del agua (Cl⁻, pH, conductividad)",
+    "valor": "VACÍO",
+    "unidad": "—",
+    "fuente": "B3 tabla DOCX 34, fila 16"
+  },
+  {
+    "grupo": "B3",
+    "id_tabla": 34,
+    "parametro": "Corriente",
+    "valor": "No aplica",
+    "unidad": "—",
+    "fuente": "B3 tabla DOCX 34, fila 18"
+  },
+  {
+    "grupo": "B1",
+    "id_tabla": 6,
+    "parametro": "Fluido",
+    "valor": "Gas y condensado",
+    "unidad": "",
+    "fuente": "B1 tabla DOCX 6, fila 2; (D)"
+  },
+  {
+    "grupo": "B1",
+    "id_tabla": 6,
+    "parametro": "Presión de cabezal, cierre",
+    "valor": "320 bar",
+    "unidad": "",
+    "fuente": "B1 tabla DOCX 6, fila 3; (D)"
+  },
+  {
+    "grupo": "B1",
+    "id_tabla": 6,
+    "parametro": "Presión de cabezal, operación",
+    "valor": "265 bar",
+    "unidad": "",
+    "fuente": "B1 tabla DOCX 6, fila 4; E1-06 (F)"
+  },
+  {
+    "grupo": "B1",
+    "id_tabla": 6,
+    "parametro": "Temperatura de fondo",
+    "valor": "118 °C",
+    "unidad": "",
+    "fuente": "B1 tabla DOCX 6, fila 5; E1-06 (F)"
+  },
+  {
+    "grupo": "B1",
+    "id_tabla": 6,
+    "parametro": "Temperatura de operación en cabeza / máxima",
+    "valor": "95 / 120 °C",
+    "unidad": "",
+    "fuente": "B1 tabla DOCX 6, fila 6; (D)"
+  },
+  {
+    "grupo": "B1",
+    "id_tabla": 6,
+    "parametro": "Temperatura del lecho marino",
+    "valor": "4 °C",
+    "unidad": "",
+    "fuente": "B1 tabla DOCX 6, fila 7; (F) E1-07"
+  },
+  {
+    "grupo": "B1",
+    "id_tabla": 6,
+    "parametro": "CO₂ / H₂S en fase gas",
+    "valor": "1,8 / 1,4 % molar",
+    "unidad": "",
+    "fuente": "B1 tabla DOCX 6, fila 8; (D)"
+  },
+  {
+    "grupo": "B1",
+    "id_tabla": 6,
+    "parametro": "pH del agua condensada",
+    "valor": "3,9",
+    "unidad": "",
+    "fuente": "B1 tabla DOCX 6, fila 9; (D)"
+  },
+  {
+    "grupo": "B1",
+    "id_tabla": 6,
+    "parametro": "Cloruros del agua de formación",
+    "valor": "28 000 mg/l desde el año 8",
+    "unidad": "",
+    "fuente": "B1 tabla DOCX 6, fila 10; (D)"
+  },
+  {
+    "grupo": "B1",
+    "id_tabla": 6,
+    "parametro": "Sólidos",
+    "valor": "No previstos inicialmente",
+    "unidad": "",
+    "fuente": "B1 tabla DOCX 6, fila 11; (D)"
+  },
+  {
+    "grupo": "B1",
+    "id_tabla": 6,
+    "parametro": "Inhibidor de hidratos",
+    "valor": "MEG en inyección continua en cabeza de pozo",
+    "unidad": "",
+    "fuente": "B1 tabla DOCX 6, fila 12; E1-06 (D) (F)"
+  },
+  {
+    "grupo": "B1",
+    "id_tabla": 6,
+    "parametro": "Profundidad de agua",
+    "valor": "780 m",
+    "unidad": "",
+    "fuente": "B1 tabla DOCX 6, fila 13; (D)"
+  },
+  {
+    "grupo": "B1",
+    "id_tabla": 6,
+    "parametro": "Vida de diseño",
+    "valor": "25 años, sin acceso para mantenimiento",
+    "unidad": "",
+    "fuente": "B1 tabla DOCX 6, fila 14; (D)"
+  },
+  {
+    "grupo": "B1",
+    "id_tabla": 8,
+    "parametro": "Presión",
+    "valor": "320 bar de cierre y 265 bar de operación en cabeza; en el fondo es mayor, sin dato",
+    "unidad": "",
+    "fuente": "B1 tabla DOCX 8, fila 2; (D) (F)E1-06; vacío"
+  },
+  {
+    "grupo": "B1",
+    "id_tabla": 8,
+    "parametro": "Temperatura",
+    "valor": "118 °C en el fondo, 95 °C en cabeza, 120 °C máxima",
+    "unidad": "",
+    "fuente": "B1 tabla DOCX 8, fila 3; (F) E1-06, (D)"
+  },
+  {
+    "grupo": "B1",
+    "id_tabla": 8,
+    "parametro": "pH₂S / pCO₂ en cabeza",
+    "valor": "371–448 kPa / 477–576 kPa",
+    "unidad": "",
+    "fuente": "B1 tabla DOCX 8, fila 4; (C)"
+  },
+  {
+    "grupo": "B1",
+    "id_tabla": 8,
+    "parametro": "Agua",
+    "valor": "Condensada (pH 3,9) en los años 1 a 8; de formación desde el año 8",
+    "unidad": "",
+    "fuente": "B1 tabla DOCX 8, fila 5; (D)"
+  },
+  {
+    "grupo": "B1",
+    "id_tabla": 8,
+    "parametro": "MEG o inhibidor",
+    "valor": "No hay",
+    "unidad": "",
+    "fuente": "B1 tabla DOCX 8, fila 6; (F) E1-06"
+  },
+  {
+    "grupo": "B1",
+    "id_tabla": 8,
+    "parametro": "Oxígeno",
+    "valor": "No hay; el yacimiento es anaerobio",
+    "unidad": "",
+    "fuente": "B1 tabla DOCX 8, fila 7; (S)"
+  },
+  {
+    "grupo": "B1",
+    "id_tabla": 8,
+    "parametro": "Despresurizaciones",
+    "valor": "2 por año a 15 bar/min",
+    "unidad": "",
+    "fuente": "B1 tabla DOCX 8, fila 8; (F) E1-10"
+  },
+  {
+    "grupo": "B1",
+    "id_tabla": 10,
+    "parametro": "Concentración en el sistema",
+    "valor": "60 % en masa",
+    "unidad": "",
+    "fuente": "B1 tabla DOCX 10, fila 2; (F) E1-10"
+  },
+  {
+    "grupo": "B1",
+    "id_tabla": 10,
+    "parametro": "Presión de inyección",
+    "valor": "Mayor que 320 bar",
+    "unidad": "",
+    "fuente": "B1 tabla DOCX 10, fila 3; (C)"
+  },
+  {
+    "grupo": "B1",
+    "id_tabla": 10,
+    "parametro": "Temperatura en el umbilical",
+    "valor": "Cerca de 4 °C",
+    "unidad": "",
+    "fuente": "B1 tabla DOCX 10, fila 4; (F)"
+  },
+  {
+    "grupo": "B1",
+    "id_tabla": 10,
+    "parametro": "Otros químicos",
+    "valor": "Metanol ocasional en arranques",
+    "unidad": "",
+    "fuente": "B1 tabla DOCX 10, fila 5; (F) E1-10"
+  }
+]
